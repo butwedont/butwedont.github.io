@@ -1,0 +1,70 @@
+name: 🤖 全自动定时扫描 (每日)
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  auto-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+
+      - name: 🐍 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 安装依赖
+        run: |
+          pip install PyGithub python-dotenv
+
+      - name: 🔍 执行全自动扫描
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scan_github.py --auto --max-repos 50
+
+      - name: 💾 提交报告到仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scan_reports/ scan_history.json
+          git commit -m "📄 [自动扫描] $(date '+%Y-%m-%d') 每日安全报告" || echo "没有新发现，跳过提交"
+          git push
+
+      - name: 📤 上传 Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-reports-$(date +%Y%m%d)
+          path: scan_reports/
+          retention-days: 90
+
+      - name: 📢 高危密钥告警
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const reportsDir = 'scan_reports';
+            if (!fs.existsSync(reportsDir)) return;
+            const files = fs.readdirSync(reportsDir).filter(f => f.endsWith('.txt'));
+            if (files.length === 0) return;
+            const latest = files.sort().pop();
+            const content = fs.readFileSync(path.join(reportsDir, latest), 'utf8');
+            if (content.includes('🔴 高危')) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `🚨 自动扫描发现高危密钥 (${new Date().toISOString().slice(0,10)})`,
+                body: `定时扫描发现潜在泄露，请立即查看详细报告：\n\n\`\`\`\n${content.slice(0, 3000)}\n\`\`\`\n\n👉 完整报告请查看仓库 \`scan_reports/\` 目录。`,
+                labels: ['security', 'critical']
+              });
+            }
