@@ -1,0 +1,22 @@
+{
+  "fusuyfusuy/agents-config": {
+    "last_scan": "2026-08-20T02:49:41.332761",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "rix4uni/medium-writeups": {
+    "last_scan": "2026-08-20T02:49:47.153790",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "WesleyW02/desktop-robot": {
+    "last_scan": "2026-08-20T02:50:28.342439",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "macanderson/stella": {
+    "last_scan": "2026-08-20T03:55:07.943966",
+    "findings_count": 1763,
+    "scan_type": "auto:ai-projects"
+  }
+}
