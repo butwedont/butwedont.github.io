@@ -133,5 +133,90 @@
     "last_scan": "2026-08-21T23:29:13.237174",
     "findings_count": 7991,
     "scan_type": "auto:ai-projects"
+  },
+  "jessemcg/open-law-lens": {
+    "last_scan": "2026-08-22T22:21:29.681979",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "shunnakajp/ai-market-trend-radar": {
+    "last_scan": "2026-08-22T22:23:00.916897",
+    "findings_count": 12774,
+    "scan_type": "auto:ai-projects"
+  },
+  "bogdanstancu1119-maker/Oglinzi-": {
+    "last_scan": "2026-08-22T22:23:23.567860",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "honglu2875/zbook": {
+    "last_scan": "2026-08-22T22:24:35.366928",
+    "findings_count": 315,
+    "scan_type": "auto:ai-projects"
+  },
+  "Bunty9701/tfl-cycle-pipeline": {
+    "last_scan": "2026-08-22T22:29:19.362774",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "MahsaKeikha/agentic_software_design": {
+    "last_scan": "2026-08-22T22:29:54.452661",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "wonderkeith/Kalidad-Pharmacy": {
+    "last_scan": "2026-08-22T22:31:40.057249",
+    "findings_count": 43,
+    "scan_type": "auto:ai-projects"
+  },
+  "Cenkay1/Ray-LLM-Dashboard-Grafana": {
+    "last_scan": "2026-08-22T22:31:48.376133",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "nestorxyz/conatus-project": {
+    "last_scan": "2026-08-22T22:34:37.883552",
+    "findings_count": 10,
+    "scan_type": "auto:ai-projects"
+  },
+  "kaveesha12626262/pdf-passper-utility": {
+    "last_scan": "2026-08-22T22:34:43.676550",
+    "findings_count": 671,
+    "scan_type": "auto:ai-projects"
+  },
+  "eddielinkenn-cell/pixel-purrin-reader": {
+    "last_scan": "2026-08-22T22:34:49.401716",
+    "findings_count": 569,
+    "scan_type": "auto:ai-projects"
+  },
+  "ProfPaladino/nx-powerlite-desktop-toolkit": {
+    "last_scan": "2026-08-22T22:34:55.108036",
+    "findings_count": 517,
+    "scan_type": "auto:ai-projects"
+  },
+  "Abiii234/PixelFlasher-6.9.5.0-Modded-Release": {
+    "last_scan": "2026-08-22T22:35:00.795033",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ktayalbe25-hue/telegram-community-builder-pro": {
+    "last_scan": "2026-08-22T22:35:06.409066",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Klashka-Group/Aleph-hackathon": {
+    "last_scan": "2026-08-22T22:36:38.095096",
+    "findings_count": 2309,
+    "scan_type": "auto:ai-projects"
+  },
+  "Mr-McSizzle/vlm": {
+    "last_scan": "2026-08-22T22:37:57.185819",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mazensamhat/motivelife": {
+    "last_scan": "2026-08-22T23:24:47.198123",
+    "findings_count": 2949,
+    "scan_type": "auto:ai-projects"
   }
 }
