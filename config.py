@@ -1,5 +1,4 @@
 import re
-
 # 忽略的目录（不扫描）
 IGNORE_DIRS = {
     '.git', 'node_modules', 'venv', 'env', '.env', 'dist', 'build',
