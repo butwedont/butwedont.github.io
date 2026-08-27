@@ -2,8 +2,8 @@ name: 🤖 全自动定时扫描 (每日)
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-  workflow_dispatch:
+    - cron: '0 22 * * *'   # 每天 UTC 22:00（北京时间 06:00）
+  workflow_dispatch:        # 允许手动触发
 
 permissions:
   contents: write
@@ -39,14 +39,14 @@ jobs:
           git commit -m "📄 [自动扫描] $(date '+%Y-%m-%d') 每日安全报告" || echo "没有新发现，跳过提交"
           git push
 
-      - name: 📤 上传 Artifacts
+      - name: 📤 上传 Artifacts（备份报告）
         uses: actions/upload-artifact@v4
         with:
           name: scan-reports-$(date +%Y%m%d)
           path: scan_reports/
           retention-days: 90
 
-            - name: 📢 高危密钥告警（创建 Issue）
+      - name: 📢 高危密钥告警（创建 Issue）
         if: always()
         uses: actions/github-script@v7
         with:
@@ -60,7 +60,7 @@ jobs:
             const latest = files.sort().pop();
             const filePath = path.join(reportsDir, latest);
             const content = fs.readFileSync(filePath, 'utf8');
-            // 截断内容，避免超过Issue body长度限制（约65536字符）
+            // 截断内容，避免超过Issue body长度限制
             const truncated = content.slice(0, 3000) + (content.length > 3000 ? '\n... (报告过长，请查看 artifact)' : '');
             if (content.includes('🔴 高危')) {
               await github.rest.issues.create({
