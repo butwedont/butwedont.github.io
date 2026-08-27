@@ -46,7 +46,7 @@ jobs:
           path: scan_reports/
           retention-days: 90
 
-      - name: 📢 高危密钥告警
+            - name: 📢 高危密钥告警（创建 Issue）
         if: always()
         uses: actions/github-script@v7
         with:
@@ -58,13 +58,16 @@ jobs:
             const files = fs.readdirSync(reportsDir).filter(f => f.endsWith('.txt'));
             if (files.length === 0) return;
             const latest = files.sort().pop();
-            const content = fs.readFileSync(path.join(reportsDir, latest), 'utf8');
+            const filePath = path.join(reportsDir, latest);
+            const content = fs.readFileSync(filePath, 'utf8');
+            // 截断内容，避免超过Issue body长度限制（约65536字符）
+            const truncated = content.slice(0, 3000) + (content.length > 3000 ? '\n... (报告过长，请查看 artifact)' : '');
             if (content.includes('🔴 高危')) {
               await github.rest.issues.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 title: `🚨 自动扫描发现高危密钥 (${new Date().toISOString().slice(0,10)})`,
-                body: `定时扫描发现潜在泄露，请立即查看详细报告：\n\n\`\`\`\n${content.slice(0, 3000)}\n\`\`\`\n\n👉 完整报告请查看仓库 \`scan_reports/\` 目录。`,
+                body: `定时扫描发现潜在泄露，请立即查看详细报告：\n\n\`\`\`\n${truncated}\n\`\`\`\n\n👉 完整报告请查看仓库 \`scan_reports/\` 目录。`,
                 labels: ['security', 'critical']
               });
             }
