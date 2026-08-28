@@ -268,5 +268,85 @@
     "last_scan": "2026-08-24T23:33:35.837207",
     "findings_count": 1200,
     "scan_type": "auto:ai-projects"
+  },
+  "Nanako0129/sepia": {
+    "last_scan": "2026-08-28T06:00:54.402731",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "2509355624/AI_prompt_and_chareter_performer": {
+    "last_scan": "2026-08-28T06:01:41.459339",
+    "findings_count": 179,
+    "scan_type": "auto:ai-projects"
+  },
+  "linny006/trending-claude-skills": {
+    "last_scan": "2026-08-28T06:01:52.949268",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ankit-songara/coldreach": {
+    "last_scan": "2026-08-28T06:04:17.897906",
+    "findings_count": 504,
+    "scan_type": "auto:ai-projects"
+  },
+  "windosx/zentao-cli": {
+    "last_scan": "2026-08-28T06:05:23.973677",
+    "findings_count": 27,
+    "scan_type": "auto:ai-projects"
+  },
+  "travisseh/pikasync-android": {
+    "last_scan": "2026-08-28T06:06:14.374301",
+    "findings_count": 7,
+    "scan_type": "auto:ai-projects"
+  },
+  "adhamzarif/Equation-Converter": {
+    "last_scan": "2026-08-28T06:06:17.585601",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "awesome-dsh-plugin/awesome-dsh-plugin": {
+    "last_scan": "2026-08-28T06:22:22.795599",
+    "findings_count": 39,
+    "scan_type": "auto:ai-projects"
+  },
+  "travisseh/pikasync-poc": {
+    "last_scan": "2026-08-28T06:23:20.042248",
+    "findings_count": 51,
+    "scan_type": "auto:ai-projects"
+  },
+  "BoerJi/awesome-remote-job-scan": {
+    "last_scan": "2026-08-28T06:23:26.516153",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ryanzen9/nest-observe": {
+    "last_scan": "2026-08-28T06:24:14.827831",
+    "findings_count": 348,
+    "scan_type": "auto:ai-projects"
+  },
+  "DevYeop/samsung-RAG-practice-exams": {
+    "last_scan": "2026-08-28T06:25:19.986551",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "attenu-io/attenu-guard": {
+    "last_scan": "2026-08-28T06:29:15.938461",
+    "findings_count": 263,
+    "scan_type": "auto:ai-projects"
+  },
+  "thedrishtiverma/thedrishtiverma": {
+    "last_scan": "2026-08-28T06:29:17.564947",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "SolarisPKN/SolarisPKN-Stats": {
+    "last_scan": "2026-08-28T06:30:00.346771",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "joecastelino/jay-skill-pack": {
+    "last_scan": "2026-08-28T07:07:28.648368",
+    "findings_count": 121,
+    "scan_type": "auto:ai-projects"
   }
 }
