@@ -348,5 +348,70 @@
     "last_scan": "2026-08-28T07:07:28.648368",
     "findings_count": 121,
     "scan_type": "auto:ai-projects"
+  },
+  "soryunkim/news-lesson-deploy": {
+    "last_scan": "2026-08-29T03:34:50.734794",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "dismantl/personal-assistant-mcp": {
+    "last_scan": "2026-08-29T03:35:57.535434",
+    "findings_count": 3,
+    "scan_type": "auto:ai-projects"
+  },
+  "Jaxsdev/Entrevista.Realtime": {
+    "last_scan": "2026-08-29T03:37:03.638110",
+    "findings_count": 1015,
+    "scan_type": "auto:ai-projects"
+  },
+  "KiandrAHD/smk-telkom-purwokerto": {
+    "last_scan": "2026-08-29T03:40:33.514564",
+    "findings_count": 351,
+    "scan_type": "auto:ai-projects"
+  },
+  "Kimdo-765/Ogamdo": {
+    "last_scan": "2026-08-29T03:44:34.063850",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "SongMiao-tech/shengjuan": {
+    "last_scan": "2026-08-29T03:45:28.866430",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "justinhunt/moodle-local_oauthmcp": {
+    "last_scan": "2026-08-29T03:45:57.546862",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ArshaanSindhwani/Weather-DataOps-Pipeline": {
+    "last_scan": "2026-08-29T03:46:15.885892",
+    "findings_count": 695,
+    "scan_type": "auto:ai-projects"
+  },
+  "TailorAU/pact": {
+    "last_scan": "2026-08-29T03:56:12.532191",
+    "findings_count": 531,
+    "scan_type": "auto:ai-projects"
+  },
+  "jaspalsinghau/experiments-with-claude": {
+    "last_scan": "2026-08-29T03:57:14.266468",
+    "findings_count": 756,
+    "scan_type": "auto:ai-projects"
+  },
+  "topherchris420/washingtondc-news": {
+    "last_scan": "2026-08-29T03:59:16.352176",
+    "findings_count": 1692,
+    "scan_type": "auto:ai-projects"
+  },
+  "cory-garms/sox-tracker": {
+    "last_scan": "2026-08-29T04:02:06.875172",
+    "findings_count": 1890,
+    "scan_type": "auto:ai-projects"
+  },
+  "openclaw/crabbox": {
+    "last_scan": "2026-08-29T04:56:47.858207",
+    "findings_count": 9632,
+    "scan_type": "auto:ai-projects"
   }
 }
