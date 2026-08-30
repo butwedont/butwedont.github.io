@@ -413,5 +413,40 @@
     "last_scan": "2026-08-29T04:56:47.858207",
     "findings_count": 9632,
     "scan_type": "auto:ai-projects"
+  },
+  "Matthew-Beckett/hass-custom-llm": {
+    "last_scan": "2026-08-29T23:57:19.770569",
+    "findings_count": 5,
+    "scan_type": "auto:ai-projects"
+  },
+  "IMvision12/ZeroModels": {
+    "last_scan": "2026-08-30T00:14:01.191036",
+    "findings_count": 186,
+    "scan_type": "auto:ai-projects"
+  },
+  "nauvalzuhdy/Heat-Ops": {
+    "last_scan": "2026-08-30T00:16:19.289110",
+    "findings_count": 1464,
+    "scan_type": "auto:ai-projects"
+  },
+  "tla-ecosystem/xapi-lrs-auth-proxy": {
+    "last_scan": "2026-08-30T00:16:52.358273",
+    "findings_count": 34,
+    "scan_type": "auto:ai-projects"
+  },
+  "HerAx-code/mapa-web": {
+    "last_scan": "2026-08-30T00:21:02.942923",
+    "findings_count": 1683,
+    "scan_type": "auto:ai-projects"
+  },
+  "treeol/wakil": {
+    "last_scan": "2026-08-30T00:29:42.627472",
+    "findings_count": 667,
+    "scan_type": "auto:ai-projects"
+  },
+  "yoonghan/yoonghan.github.io": {
+    "last_scan": "2026-08-30T01:02:52.098310",
+    "findings_count": 1916,
+    "scan_type": "auto:ai-projects"
   }
 }
