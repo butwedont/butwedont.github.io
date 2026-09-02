@@ -573,5 +573,40 @@
     "last_scan": "2026-09-01T02:04:37.794210",
     "findings_count": 916,
     "scan_type": "auto:ai-projects"
+  },
+  "MendeOliv/binary-code": {
+    "last_scan": "2026-09-01T23:53:32.418145",
+    "findings_count": 451,
+    "scan_type": "auto:ai-projects"
+  },
+  "kvrmsp18/stockmarket-bot": {
+    "last_scan": "2026-09-01T23:55:23.078644",
+    "findings_count": 6,
+    "scan_type": "auto:ai-projects"
+  },
+  "mojomanyana/skill-harness": {
+    "last_scan": "2026-09-02T00:00:46.817849",
+    "findings_count": 709,
+    "scan_type": "auto:ai-projects"
+  },
+  "statepark62/daily-economic-briefing": {
+    "last_scan": "2026-09-02T00:01:36.209618",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "padraigkl1234-droid/AUTOMATED": {
+    "last_scan": "2026-09-02T00:03:27.121746",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "hyparam/hypaware": {
+    "last_scan": "2026-09-02T00:27:09.121610",
+    "findings_count": 279,
+    "scan_type": "auto:ai-projects"
+  },
+  "tobyglenn/websiteBuilder": {
+    "last_scan": "2026-09-02T01:53:20.457903",
+    "findings_count": 9779,
+    "scan_type": "auto:ai-projects"
   }
 }
