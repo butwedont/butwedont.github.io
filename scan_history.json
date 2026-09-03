@@ -608,5 +608,45 @@
     "last_scan": "2026-09-02T01:53:20.457903",
     "findings_count": 9779,
     "scan_type": "auto:ai-projects"
+  },
+  "ph1gros/for-people-no-friend": {
+    "last_scan": "2026-09-03T00:01:45.828204",
+    "findings_count": 1261,
+    "scan_type": "auto:ai-projects"
+  },
+  "drg407/pi-web-access-lite": {
+    "last_scan": "2026-09-03T00:01:54.881999",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "visiongaiatechnology/gedefensewp": {
+    "last_scan": "2026-09-03T00:07:21.621891",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "oslabs-beta/lemonbeam": {
+    "last_scan": "2026-09-03T00:09:50.420784",
+    "findings_count": 855,
+    "scan_type": "auto:ai-projects"
+  },
+  "wingzone94/Node": {
+    "last_scan": "2026-09-03T00:18:13.682857",
+    "findings_count": 2111,
+    "scan_type": "auto:ai-projects"
+  },
+  "billpeet/polycode": {
+    "last_scan": "2026-09-03T00:26:49.529960",
+    "findings_count": 2455,
+    "scan_type": "auto:ai-projects"
+  },
+  "usestapel/stapel-core": {
+    "last_scan": "2026-09-03T00:37:07.939112",
+    "findings_count": 6,
+    "scan_type": "auto:ai-projects"
+  },
+  "jepace/Lobotomy": {
+    "last_scan": "2026-09-03T00:55:57.774192",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
   }
 }
