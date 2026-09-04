@@ -648,5 +648,25 @@
     "last_scan": "2026-09-03T00:55:57.774192",
     "findings_count": 0,
     "scan_type": "auto:ai-projects"
+  },
+  "fabasoad/music-release-publisher": {
+    "last_scan": "2026-09-03T23:52:02.823834",
+    "findings_count": 218,
+    "scan_type": "auto:ai-projects"
+  },
+  "Koteyka371/ball-royale": {
+    "last_scan": "2026-09-04T00:17:38.804124",
+    "findings_count": 14,
+    "scan_type": "auto:ai-projects"
+  },
+  "brunovaes/greyhound-validator": {
+    "last_scan": "2026-09-04T00:18:53.976195",
+    "findings_count": 510,
+    "scan_type": "auto:ai-projects"
+  },
+  "M4Agents/lovooDev": {
+    "last_scan": "2026-09-04T01:13:29.378604",
+    "findings_count": 1913,
+    "scan_type": "auto:ai-projects"
   }
 }
