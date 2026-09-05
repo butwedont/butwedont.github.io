@@ -668,5 +668,50 @@
     "last_scan": "2026-09-04T01:13:29.378604",
     "findings_count": 1913,
     "scan_type": "auto:ai-projects"
+  },
+  "Ironieser/CineCrew": {
+    "last_scan": "2026-09-04T23:54:49.405169",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "dirtysouthalpha/sentinel-cli": {
+    "last_scan": "2026-09-05T00:01:23.825462",
+    "findings_count": 942,
+    "scan_type": "auto:ai-projects"
+  },
+  "willshaorealestate/bostonhomeguide": {
+    "last_scan": "2026-09-05T00:04:20.885181",
+    "findings_count": 1525,
+    "scan_type": "auto:ai-projects"
+  },
+  "TypeThe0ry/ClusterYourCodex": {
+    "last_scan": "2026-09-05T00:08:17.746426",
+    "findings_count": 826,
+    "scan_type": "auto:ai-projects"
+  },
+  "chelnymark-web/btc-direction-radar": {
+    "last_scan": "2026-09-05T00:10:20.463775",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mv2731/box-tracker": {
+    "last_scan": "2026-09-05T00:10:37.004419",
+    "findings_count": 118,
+    "scan_type": "auto:ai-projects"
+  },
+  "limsorn9/Antigravity-IDE-KH": {
+    "last_scan": "2026-09-05T00:11:40.098256",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "hamiltontruck/hallotruck": {
+    "last_scan": "2026-09-05T00:22:01.977849",
+    "findings_count": 673,
+    "scan_type": "auto:ai-projects"
+  },
+  "zjordon/treeforge": {
+    "last_scan": "2026-09-05T00:59:48.875230",
+    "findings_count": 1557,
+    "scan_type": "auto:ai-projects"
   }
 }
