@@ -793,5 +793,40 @@
     "last_scan": "2026-09-06T00:39:28.200972",
     "findings_count": 0,
     "scan_type": "auto:ai-projects"
+  },
+  "ErmakovSemen/ai-video-studio": {
+    "last_scan": "2026-09-06T23:39:08.284766",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Mylonas/deals-blog": {
+    "last_scan": "2026-09-06T23:42:58.834513",
+    "findings_count": 663,
+    "scan_type": "auto:ai-projects"
+  },
+  "Sorrow12171/tromae": {
+    "last_scan": "2026-09-06T23:44:21.941094",
+    "findings_count": 188,
+    "scan_type": "auto:ai-projects"
+  },
+  "ahmed4050/resistance-news": {
+    "last_scan": "2026-09-06T23:44:32.528704",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "adot-7/occam": {
+    "last_scan": "2026-09-06T23:54:34.893437",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "rizkyazhar486/Panacea": {
+    "last_scan": "2026-09-07T00:10:23.766876",
+    "findings_count": 678,
+    "scan_type": "auto:ai-projects"
+  },
+  "marron1984/cigar": {
+    "last_scan": "2026-09-07T00:37:21.118400",
+    "findings_count": 127,
+    "scan_type": "auto:ai-projects"
   }
 }
