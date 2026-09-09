@@ -848,5 +848,35 @@
     "last_scan": "2026-09-08T01:03:18.090696",
     "findings_count": 703,
     "scan_type": "auto:ai-projects"
+  },
+  "davidchalifoux/arrsenal": {
+    "last_scan": "2026-09-08T23:57:58.356221",
+    "findings_count": 727,
+    "scan_type": "auto:ai-projects"
+  },
+  "paradiseuknow-ship-it/Identra": {
+    "last_scan": "2026-09-09T00:10:24.592576",
+    "findings_count": 517,
+    "scan_type": "auto:ai-projects"
+  },
+  "esportellini/agentops-monitor": {
+    "last_scan": "2026-09-09T00:13:50.522391",
+    "findings_count": 827,
+    "scan_type": "auto:ai-projects"
+  },
+  "KritiTamirasa/typesensecomp": {
+    "last_scan": "2026-09-09T00:14:39.856718",
+    "findings_count": 207,
+    "scan_type": "auto:ai-projects"
+  },
+  "Jhowzxcv/cp1-2tri-webdev": {
+    "last_scan": "2026-09-09T00:16:01.939843",
+    "findings_count": 198,
+    "scan_type": "auto:ai-projects"
+  },
+  "scouzi1966/maclocal-api": {
+    "last_scan": "2026-09-09T01:15:52.404757",
+    "findings_count": 236,
+    "scan_type": "auto:ai-projects"
   }
 }
