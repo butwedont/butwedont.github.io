@@ -878,5 +878,70 @@
     "last_scan": "2026-09-09T01:15:52.404757",
     "findings_count": 236,
     "scan_type": "auto:ai-projects"
+  },
+  "Cauqui/amaram-inventory-system": {
+    "last_scan": "2026-09-09T23:54:49.273380",
+    "findings_count": 712,
+    "scan_type": "auto:ai-projects"
+  },
+  "arunhistory/-anime-memory": {
+    "last_scan": "2026-09-09T23:56:32.973969",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "yohei1273/healthmanagement": {
+    "last_scan": "2026-09-09T23:56:40.134563",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "thiagotsda/dbz-geki-gb": {
+    "last_scan": "2026-09-09T23:57:41.425246",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "kimwoss/Risk_management": {
+    "last_scan": "2026-09-09T23:58:41.896333",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "andzar22/offstereo-mcp": {
+    "last_scan": "2026-09-09T23:58:44.611215",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "turky4500/binance-trading-dashboard": {
+    "last_scan": "2026-09-10T00:01:15.717242",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "NouraElsaman/BAYYINAH": {
+    "last_scan": "2026-09-10T00:03:47.974718",
+    "findings_count": 794,
+    "scan_type": "auto:ai-projects"
+  },
+  "hyoaru/hyoaru.github.io": {
+    "last_scan": "2026-09-10T00:07:19.314703",
+    "findings_count": 819,
+    "scan_type": "auto:ai-projects"
+  },
+  "ghaniramsoren9-dotcom/Anu": {
+    "last_scan": "2026-09-10T00:09:41.961452",
+    "findings_count": 19,
+    "scan_type": "auto:ai-projects"
+  },
+  "kkashiwa415/cooking-news-podcast": {
+    "last_scan": "2026-09-10T00:13:39.814751",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mrsmith1638ta-design/sara-omega": {
+    "last_scan": "2026-09-10T00:17:55.393075",
+    "findings_count": 273,
+    "scan_type": "auto:ai-projects"
+  },
+  "AviGopal/substrate": {
+    "last_scan": "2026-09-10T02:06:48.553353",
+    "findings_count": 538,
+    "scan_type": "auto:ai-projects"
   }
 }
