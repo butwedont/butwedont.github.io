@@ -943,5 +943,20 @@
     "last_scan": "2026-09-10T02:06:48.553353",
     "findings_count": 538,
     "scan_type": "auto:ai-projects"
+  },
+  "mojatter/s2": {
+    "last_scan": "2026-09-10T23:52:30.008114",
+    "findings_count": 780,
+    "scan_type": "auto:ai-projects"
+  },
+  "Beeline-Work/beeline": {
+    "last_scan": "2026-09-11T00:14:45.715315",
+    "findings_count": 4053,
+    "scan_type": "auto:ai-projects"
+  },
+  "childersjac-max/Line-Tracker-Model": {
+    "last_scan": "2026-09-11T01:06:52.342402",
+    "findings_count": 72,
+    "scan_type": "auto:ai-projects"
   }
 }
