@@ -958,5 +958,115 @@
     "last_scan": "2026-09-11T01:06:52.342402",
     "findings_count": 72,
     "scan_type": "auto:ai-projects"
+  },
+  "Jaziel-Story/jaziel-story.github.io": {
+    "last_scan": "2026-09-11T23:58:30.837279",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Dnyaneshh18/mit_hack": {
+    "last_scan": "2026-09-12T00:01:07.409522",
+    "findings_count": 2445,
+    "scan_type": "auto:ai-projects"
+  },
+  "ck17nov/Jaadugar": {
+    "last_scan": "2026-09-12T00:04:54.854924",
+    "findings_count": 36,
+    "scan_type": "auto:ai-projects"
+  },
+  "6ixtyn9-sudo/Breakwater": {
+    "last_scan": "2026-09-12T00:07:01.653311",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "checobanderas/cocinet-app": {
+    "last_scan": "2026-09-12T00:15:42.840852",
+    "findings_count": 4125,
+    "scan_type": "auto:ai-projects"
+  },
+  "sourav4634/Systweak-PhotoRevive-Pro-Tool-2025": {
+    "last_scan": "2026-09-12T00:15:48.321236",
+    "findings_count": 609,
+    "scan_type": "auto:ai-projects"
+  },
+  "anumsams/astro-panel-pro-tool": {
+    "last_scan": "2026-09-12T00:15:55.560306",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "MaikeruFurora/anyaya-posts": {
+    "last_scan": "2026-09-12T00:16:55.245199",
+    "findings_count": 848,
+    "scan_type": "auto:ai-projects"
+  },
+  "song39641-spec/Reaper-DAW-Workstation-Pro": {
+    "last_scan": "2026-09-12T00:17:00.681976",
+    "findings_count": 588,
+    "scan_type": "auto:ai-projects"
+  },
+  "tufeeq/ai": {
+    "last_scan": "2026-09-12T00:27:15.160278",
+    "findings_count": 5408,
+    "scan_type": "auto:ai-projects"
+  },
+  "jav02222006-cyber/plc-lab-standalone-release": {
+    "last_scan": "2026-09-12T00:27:20.817995",
+    "findings_count": 585,
+    "scan_type": "auto:ai-projects"
+  },
+  "profrodrigo91/tmux-orchestra": {
+    "last_scan": "2026-09-12T00:27:26.566984",
+    "findings_count": 569,
+    "scan_type": "auto:ai-projects"
+  },
+  "amit491k-del/webasyst-ai-workbench": {
+    "last_scan": "2026-09-12T00:27:31.915265",
+    "findings_count": 614,
+    "scan_type": "auto:ai-projects"
+  },
+  "familymansean-png/llm-trading": {
+    "last_scan": "2026-09-12T00:27:56.418626",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "Rick-254/moodle-quizsmith": {
+    "last_scan": "2026-09-12T00:28:02.103635",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "itwasmatias/missionaryx-nebius": {
+    "last_scan": "2026-09-12T00:30:04.736100",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "IgnacioR04/MEC-BOT": {
+    "last_scan": "2026-09-12T00:30:14.442263",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "talhaercin14-maker/net6-optimizer-utility": {
+    "last_scan": "2026-09-12T00:30:21.551498",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "javancehooks/scholar-scaffold": {
+    "last_scan": "2026-09-12T00:30:27.072584",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "iuseatoaster/Waveform-Studio-Unofficial-Preset-Pack": {
+    "last_scan": "2026-09-12T00:30:32.947114",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Jonukun1221/paragon-drive-legacy-tools": {
+    "last_scan": "2026-09-12T00:30:38.452439",
+    "findings_count": 635,
+    "scan_type": "auto:ai-projects"
+  },
+  "newsdayads/tigeriq-ai-lab": {
+    "last_scan": "2026-09-12T01:02:14.412798",
+    "findings_count": 334,
+    "scan_type": "auto:ai-projects"
   }
 }
