@@ -1068,5 +1068,30 @@
     "last_scan": "2026-09-12T01:02:14.412798",
     "findings_count": 334,
     "scan_type": "auto:ai-projects"
+  },
+  "DevZIKIII/CareerPilotAI": {
+    "last_scan": "2026-09-13T23:57:16.236204",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "geoji-yaho/geoji-agent": {
+    "last_scan": "2026-09-14T00:02:06.607720",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "GTBitsOfGood/pink-stem": {
+    "last_scan": "2026-09-14T00:08:11.997716",
+    "findings_count": 1008,
+    "scan_type": "auto:ai-projects"
+  },
+  "albertols/synthetic-llm-dataflow-bigquery": {
+    "last_scan": "2026-09-14T00:17:04.093000",
+    "findings_count": 3,
+    "scan_type": "auto:ai-projects"
+  },
+  "QX0617/operit-build": {
+    "last_scan": "2026-09-14T01:57:21.208001",
+    "findings_count": 5776,
+    "scan_type": "auto:ai-projects"
   }
 }
