@@ -1093,5 +1093,60 @@
     "last_scan": "2026-09-14T01:57:21.208001",
     "findings_count": 5776,
     "scan_type": "auto:ai-projects"
+  },
+  "ugmoddev/API-NEW-NAT-3-": {
+    "last_scan": "2026-09-15T00:24:34.330297",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "artalytics/.build-info": {
+    "last_scan": "2026-09-15T00:27:57.848501",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "puhuiin/Auto-Square-Publisher": {
+    "last_scan": "2026-09-15T00:28:24.328480",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "llimxillh2-del/aqar-monitor": {
+    "last_scan": "2026-09-15T00:28:59.357606",
+    "findings_count": 4035,
+    "scan_type": "auto:ai-projects"
+  },
+  "sanjaydoc/Carwow_clone": {
+    "last_scan": "2026-09-15T00:32:42.699389",
+    "findings_count": 600,
+    "scan_type": "auto:ai-projects"
+  },
+  "hoodini/hoodini": {
+    "last_scan": "2026-09-15T00:32:57.662715",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Propertyscout001/racing-price-movement-tracker": {
+    "last_scan": "2026-09-15T00:33:09.336121",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "paragon-ux/PDL-Standard-REPL-Harness": {
+    "last_scan": "2026-09-15T00:35:18.875425",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Laura-Barsoum/DeafAccessibility": {
+    "last_scan": "2026-09-15T00:38:06.289303",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "osint-builders/osint": {
+    "last_scan": "2026-09-15T00:59:27.985568",
+    "findings_count": 3968,
+    "scan_type": "auto:ai-projects"
+  },
+  "YuvrajSingh-mist/AndroidLife": {
+    "last_scan": "2026-09-15T01:27:56.533361",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
   }
 }
