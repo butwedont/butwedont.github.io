@@ -1168,5 +1168,20 @@
     "last_scan": "2026-09-16T01:20:56.474489",
     "findings_count": 4541,
     "scan_type": "auto:ai-projects"
+  },
+  "MuriloDPV/IARA-Desafio-dos-Dados": {
+    "last_scan": "2026-09-17T23:59:58.451695",
+    "findings_count": 13,
+    "scan_type": "auto:ai-projects"
+  },
+  "joshxnyc/lifeos": {
+    "last_scan": "2026-09-18T00:04:42.205632",
+    "findings_count": 1414,
+    "scan_type": "auto:ai-projects"
+  },
+  "auravibes-apps/auravibes": {
+    "last_scan": "2026-09-18T01:12:12.756117",
+    "findings_count": 9415,
+    "scan_type": "auto:ai-projects"
   }
 }
