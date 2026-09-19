@@ -1183,5 +1183,15 @@
     "last_scan": "2026-09-18T01:12:12.756117",
     "findings_count": 9415,
     "scan_type": "auto:ai-projects"
+  },
+  "Jorisdevreede/AI-ISCO": {
+    "last_scan": "2026-09-19T00:30:38.336849",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ELares/IronAuth": {
+    "last_scan": "2026-09-19T01:27:57.775008",
+    "findings_count": 1411,
+    "scan_type": "auto:ai-projects"
   }
 }
