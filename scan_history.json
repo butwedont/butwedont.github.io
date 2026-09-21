@@ -1253,5 +1253,45 @@
     "last_scan": "2026-09-20T01:07:28.107815",
     "findings_count": 2454,
     "scan_type": "auto:ai-projects"
+  },
+  "AzielEliab/aziel-runtime": {
+    "last_scan": "2026-09-21T00:03:50.366564",
+    "findings_count": 16,
+    "scan_type": "auto:ai-projects"
+  },
+  "elixf7/brawlstars-data-pipeline": {
+    "last_scan": "2026-09-21T00:05:05.489966",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "zhengzhiyu0/mini-codex-proxy": {
+    "last_scan": "2026-09-21T00:05:20.269445",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ugmoddev/API-NEW-NATUAN-3-": {
+    "last_scan": "2026-09-21T00:06:16.775509",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "julipalma/interior-monitor": {
+    "last_scan": "2026-09-21T00:07:32.842852",
+    "findings_count": 101,
+    "scan_type": "auto:ai-projects"
+  },
+  "edynasty/LumenCortex": {
+    "last_scan": "2026-09-21T00:08:40.958019",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ngockho16/memorymoon-synth-archive": {
+    "last_scan": "2026-09-21T00:08:48.557166",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "clearcaseiq/legal": {
+    "last_scan": "2026-09-21T01:00:18.625872",
+    "findings_count": 5350,
+    "scan_type": "auto:ai-projects"
   }
 }
