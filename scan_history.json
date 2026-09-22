@@ -1293,5 +1293,60 @@
     "last_scan": "2026-09-21T01:00:18.625872",
     "findings_count": 5350,
     "scan_type": "auto:ai-projects"
+  },
+  "AITechnolog-crypto/3D-City-Test-Legacy2": {
+    "last_scan": "2026-09-22T00:38:59.994081",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "bossanova808/10-foot.dash": {
+    "last_scan": "2026-09-22T00:39:34.847005",
+    "findings_count": 744,
+    "scan_type": "auto:ai-projects"
+  },
+  "Lisir2002/MiniMe-core": {
+    "last_scan": "2026-09-22T00:55:48.817025",
+    "findings_count": 500,
+    "scan_type": "auto:ai-projects"
+  },
+  "Micheledv74/maritime-dashboard": {
+    "last_scan": "2026-09-22T00:56:02.088404",
+    "findings_count": 1512,
+    "scan_type": "auto:ai-projects"
+  },
+  "tibhsjxxiii/painel-bhsj23": {
+    "last_scan": "2026-09-22T00:56:10.478561",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "spidy-dataengineer/DailyLanguageLearning": {
+    "last_scan": "2026-09-22T00:56:53.763443",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "m1insights/notron": {
+    "last_scan": "2026-09-22T01:01:27.671025",
+    "findings_count": 74,
+    "scan_type": "auto:ai-projects"
+  },
+  "michelpronkk-oss/wanterest": {
+    "last_scan": "2026-09-22T01:08:23.193187",
+    "findings_count": 1393,
+    "scan_type": "auto:ai-projects"
+  },
+  "lampungbphl/hotspot-bphl-lampung": {
+    "last_scan": "2026-09-22T01:08:37.397074",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "YunhuPark/topic-ai": {
+    "last_scan": "2026-09-22T01:09:29.901993",
+    "findings_count": 109,
+    "scan_type": "auto:ai-projects"
+  },
+  "prime-radiant-inc/evener": {
+    "last_scan": "2026-09-22T05:41:05.989096",
+    "findings_count": 9215,
+    "scan_type": "auto:ai-projects"
   }
 }
