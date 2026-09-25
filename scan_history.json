@@ -1388,5 +1388,40 @@
     "last_scan": "2026-09-24T01:18:59.713836",
     "findings_count": 860,
     "scan_type": "auto:ai-projects"
+  },
+  "Tiago-TSG/tetris-app": {
+    "last_scan": "2026-09-25T00:21:06.136413",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "cy20250422-star/ApowerPDF-5.4.2.5-Core-Enhancer": {
+    "last_scan": "2026-09-25T00:21:11.825441",
+    "findings_count": 504,
+    "scan_type": "auto:ai-projects"
+  },
+  "gauchitodev/ClaudIA": {
+    "last_scan": "2026-09-25T00:25:54.877901",
+    "findings_count": 508,
+    "scan_type": "auto:ai-projects"
+  },
+  "jse32100/claude-monitor": {
+    "last_scan": "2026-09-25T00:26:11.537493",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Deanhugh/orbit-prism-command-center": {
+    "last_scan": "2026-09-25T00:31:09.346839",
+    "findings_count": 7301,
+    "scan_type": "auto:ai-projects"
+  },
+  "wh92wi/traffic-logger": {
+    "last_scan": "2026-09-25T00:31:18.948673",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mikosbartlomiej-prog/trading-system": {
+    "last_scan": "2026-09-25T01:41:36.086213",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
   }
 }
