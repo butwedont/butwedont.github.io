@@ -1493,5 +1493,60 @@
     "last_scan": "2026-09-27T01:26:04.013261",
     "findings_count": 1493,
     "scan_type": "auto:ai-projects"
+  },
+  "Mhhickma/Dashboard": {
+    "last_scan": "2026-09-28T00:43:24.152965",
+    "findings_count": 4,
+    "scan_type": "auto:ai-projects"
+  },
+  "jthomas0786/DingerWatch": {
+    "last_scan": "2026-09-28T00:46:14.361190",
+    "findings_count": 10,
+    "scan_type": "auto:ai-projects"
+  },
+  "rldunnam/fragrance": {
+    "last_scan": "2026-09-28T00:47:27.453430",
+    "findings_count": 846,
+    "scan_type": "auto:ai-projects"
+  },
+  "Hanyong338/stock-dashboard": {
+    "last_scan": "2026-09-28T00:48:43.245787",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "wenhua6666668-oss/agent-traffic-lab-mcp": {
+    "last_scan": "2026-09-28T00:49:17.748905",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "christergronvold-cmd/Sorlandet": {
+    "last_scan": "2026-09-28T00:49:57.432044",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "jeonyounghyun/ai-usage-widget": {
+    "last_scan": "2026-09-28T00:50:11.341792",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mmegasuporte/roblox-experience-pulse": {
+    "last_scan": "2026-09-28T00:50:18.785562",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "JacobCoffee/carby": {
+    "last_scan": "2026-09-28T00:55:55.789986",
+    "findings_count": 987,
+    "scan_type": "auto:ai-projects"
+  },
+  "minimalbreeze/bluechip-compass": {
+    "last_scan": "2026-09-28T00:56:36.809708",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "dsmolchanov/nerve-oss": {
+    "last_scan": "2026-09-28T01:29:10.294393",
+    "findings_count": 581,
+    "scan_type": "auto:ai-projects"
   }
 }
