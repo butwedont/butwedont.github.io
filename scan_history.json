@@ -1573,5 +1573,15 @@
     "last_scan": "2026-09-29T02:35:47.393045",
     "findings_count": 11228,
     "scan_type": "auto:ai-projects"
+  },
+  "YoniYon00/claude-feedback-rings": {
+    "last_scan": "2026-09-30T01:08:52.851053",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "converge-ai-labs/agent-foundation": {
+    "last_scan": "2026-09-30T02:16:41.626176",
+    "findings_count": 2296,
+    "scan_type": "auto:ai-projects"
   }
 }
