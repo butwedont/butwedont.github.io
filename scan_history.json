@@ -1583,5 +1583,35 @@
     "last_scan": "2026-09-30T02:16:41.626176",
     "findings_count": 2296,
     "scan_type": "auto:ai-projects"
+  },
+  "linq-team/linq-go": {
+    "last_scan": "2026-10-01T01:11:10.925966",
+    "findings_count": 480,
+    "scan_type": "auto:ai-projects"
+  },
+  "tienit150198/PhoCoChuyen": {
+    "last_scan": "2026-10-01T01:20:23.692896",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "yhm138/ai-quota-tray": {
+    "last_scan": "2026-10-01T01:21:58.261633",
+    "findings_count": 114,
+    "scan_type": "auto:ai-projects"
+  },
+  "pradeepg78/Spotlight": {
+    "last_scan": "2026-10-01T01:22:58.955441",
+    "findings_count": 2580,
+    "scan_type": "auto:ai-projects"
+  },
+  "gruposarasas/MMC": {
+    "last_scan": "2026-10-01T01:26:10.265780",
+    "findings_count": 173,
+    "scan_type": "auto:ai-projects"
+  },
+  "WrazyAI/launchloom": {
+    "last_scan": "2026-10-01T02:12:09.658284",
+    "findings_count": 1967,
+    "scan_type": "auto:ai-projects"
   }
 }
