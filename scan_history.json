@@ -1613,5 +1613,30 @@
     "last_scan": "2026-10-01T02:12:09.658284",
     "findings_count": 1967,
     "scan_type": "auto:ai-projects"
+  },
+  "mordsm/podcasts-summary": {
+    "last_scan": "2026-10-02T01:25:05.104955",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "adionline15/odd-one": {
+    "last_scan": "2026-10-02T01:25:32.593415",
+    "findings_count": 558,
+    "scan_type": "auto:ai-projects"
+  },
+  "Zen-TM/logjam": {
+    "last_scan": "2026-10-02T01:47:20.364635",
+    "findings_count": 4747,
+    "scan_type": "auto:ai-projects"
+  },
+  "kriszwart/claude-video-studio": {
+    "last_scan": "2026-10-02T01:56:00.116078",
+    "findings_count": 887,
+    "scan_type": "auto:ai-projects"
+  },
+  "goslingmanagment/hub": {
+    "last_scan": "2026-10-02T02:52:33.093951",
+    "findings_count": 8395,
+    "scan_type": "auto:ai-projects"
   }
 }
