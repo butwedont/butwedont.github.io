@@ -1638,5 +1638,35 @@
     "last_scan": "2026-10-02T02:52:33.093951",
     "findings_count": 8395,
     "scan_type": "auto:ai-projects"
+  },
+  "liunoly-design/Personal_GTD": {
+    "last_scan": "2026-10-03T01:05:55.524533",
+    "findings_count": 9,
+    "scan_type": "auto:ai-projects"
+  },
+  "francescoveryra-dot/IAF-Agent-Bridge": {
+    "last_scan": "2026-10-03T01:07:37.375619",
+    "findings_count": 206,
+    "scan_type": "auto:ai-projects"
+  },
+  "alliecatowo/openapi-web-mcp": {
+    "last_scan": "2026-10-03T01:08:58.526921",
+    "findings_count": 458,
+    "scan_type": "auto:ai-projects"
+  },
+  "HamouchiMed/mh-website": {
+    "last_scan": "2026-10-03T01:11:11.933882",
+    "findings_count": 555,
+    "scan_type": "auto:ai-projects"
+  },
+  "TetsaLab/Live-Incident-and-Response-Honeypot-Project": {
+    "last_scan": "2026-10-03T01:11:13.682499",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "yass3705/tesla-charge-companion-data-lab": {
+    "last_scan": "2026-10-03T03:02:10.062111",
+    "findings_count": 38736,
+    "scan_type": "auto:ai-projects"
   }
 }
