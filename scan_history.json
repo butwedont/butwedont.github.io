@@ -1708,5 +1708,25 @@
     "last_scan": "2026-10-04T01:51:38.052342",
     "findings_count": 4432,
     "scan_type": "auto:ai-projects"
+  },
+  "agentclientprotocol/java-sdk": {
+    "last_scan": "2026-10-05T00:48:46.747853",
+    "findings_count": 2135,
+    "scan_type": "auto:ai-projects"
+  },
+  "nytka-app/server": {
+    "last_scan": "2026-10-05T00:54:49.621043",
+    "findings_count": 39,
+    "scan_type": "auto:ai-projects"
+  },
+  "microsoft/voice-agent": {
+    "last_scan": "2026-10-05T01:00:07.759067",
+    "findings_count": 148,
+    "scan_type": "auto:ai-projects"
+  },
+  "erictheng93/Makan-Masak": {
+    "last_scan": "2026-10-05T02:41:09.485840",
+    "findings_count": 4442,
+    "scan_type": "auto:ai-projects"
   }
 }
