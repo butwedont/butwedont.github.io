@@ -1728,5 +1728,40 @@
     "last_scan": "2026-10-05T02:41:09.485840",
     "findings_count": 4442,
     "scan_type": "auto:ai-projects"
+  },
+  "suedenglehem/docker4salad": {
+    "last_scan": "2026-10-06T02:08:28.430902",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "Peek-Everything/claude-cache-warmer": {
+    "last_scan": "2026-10-06T02:08:52.970479",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Bingblop/ADB-Application-Manager": {
+    "last_scan": "2026-10-06T02:15:34.233600",
+    "findings_count": 84,
+    "scan_type": "auto:ai-projects"
+  },
+  "zuoyunlai/lunheng-article-pipeline": {
+    "last_scan": "2026-10-06T02:19:19.520639",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Billplz/Billplz-for-WooCommerce": {
+    "last_scan": "2026-10-06T02:19:59.015557",
+    "findings_count": 5,
+    "scan_type": "auto:ai-projects"
+  },
+  "credo-go/credo": {
+    "last_scan": "2026-10-06T02:28:01.678844",
+    "findings_count": 121,
+    "scan_type": "auto:ai-projects"
+  },
+  "fujii-yuki-star/star-recruit-studio": {
+    "last_scan": "2026-10-06T03:11:45.663693",
+    "findings_count": 701,
+    "scan_type": "auto:ai-projects"
   }
 }
