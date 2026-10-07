@@ -1763,5 +1763,25 @@
     "last_scan": "2026-10-06T03:11:45.663693",
     "findings_count": 701,
     "scan_type": "auto:ai-projects"
+  },
+  "TheSethRose/dsh-security": {
+    "last_scan": "2026-10-07T01:16:11.391967",
+    "findings_count": 1233,
+    "scan_type": "auto:ai-projects"
+  },
+  "jampongsathorn/wxedge": {
+    "last_scan": "2026-10-07T01:21:10.711386",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "GreenerByDefault/foodservice-insights": {
+    "last_scan": "2026-10-07T01:40:04.714122",
+    "findings_count": 609,
+    "scan_type": "auto:ai-projects"
+  },
+  "overengineeringstudio/effect-utils": {
+    "last_scan": "2026-10-07T03:37:27.969792",
+    "findings_count": 7423,
+    "scan_type": "auto:ai-projects"
   }
 }
