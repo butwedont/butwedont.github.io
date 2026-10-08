@@ -1783,5 +1783,35 @@
     "last_scan": "2026-10-07T03:37:27.969792",
     "findings_count": 7423,
     "scan_type": "auto:ai-projects"
+  },
+  "ZStamov/Converge": {
+    "last_scan": "2026-10-08T01:37:46.266288",
+    "findings_count": 462,
+    "scan_type": "auto:ai-projects"
+  },
+  "digital-foundry/actualis": {
+    "last_scan": "2026-10-08T01:38:51.035251",
+    "findings_count": 7,
+    "scan_type": "auto:ai-projects"
+  },
+  "snaydherea-prog/umbral-soloq-challenge": {
+    "last_scan": "2026-10-08T01:39:08.444502",
+    "findings_count": 140,
+    "scan_type": "auto:ai-projects"
+  },
+  "huqianghui/mindforge": {
+    "last_scan": "2026-10-08T01:48:23.068978",
+    "findings_count": 541,
+    "scan_type": "auto:ai-projects"
+  },
+  "maximustylus/smartmotion": {
+    "last_scan": "2026-10-08T01:50:17.276921",
+    "findings_count": 1374,
+    "scan_type": "auto:ai-projects"
+  },
+  "JeanZorzetti/sirius": {
+    "last_scan": "2026-10-08T02:47:23.838947",
+    "findings_count": 2981,
+    "scan_type": "auto:ai-projects"
   }
 }
