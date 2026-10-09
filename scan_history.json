@@ -1813,5 +1813,85 @@
     "last_scan": "2026-10-08T02:47:23.838947",
     "findings_count": 2981,
     "scan_type": "auto:ai-projects"
+  },
+  "pyru/AgentSwitch_team04": {
+    "last_scan": "2026-10-09T01:59:23.042077",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "gq-guo/firebee": {
+    "last_scan": "2026-10-09T02:00:13.517400",
+    "findings_count": 4,
+    "scan_type": "auto:ai-projects"
+  },
+  "faithpricejp-source/home-cinema": {
+    "last_scan": "2026-10-09T02:01:40.861599",
+    "findings_count": 7,
+    "scan_type": "auto:ai-projects"
+  },
+  "SureshAmal/cratemd": {
+    "last_scan": "2026-10-09T02:02:13.104067",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "NvmToxic/ai-books-mcp-server": {
+    "last_scan": "2026-10-09T02:02:28.308542",
+    "findings_count": 294,
+    "scan_type": "auto:ai-projects"
+  },
+  "turkeyaccgames-netizen/yo": {
+    "last_scan": "2026-10-09T02:02:47.948692",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "lawlietfeng/faui-sdk-agent": {
+    "last_scan": "2026-10-09T02:03:57.918676",
+    "findings_count": 413,
+    "scan_type": "auto:ai-projects"
+  },
+  "dlsrms/clash-for-windows-rule-manager": {
+    "last_scan": "2026-10-09T02:04:04.339804",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "NelsonBaltazar-droid/acronis-disk-director-15-5-utility": {
+    "last_scan": "2026-10-09T02:04:12.492606",
+    "findings_count": 403,
+    "scan_type": "auto:ai-projects"
+  },
+  "etosheartem/ag-repatch": {
+    "last_scan": "2026-10-09T02:04:44.450331",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "vedmeena/Chog-Mint-Automator": {
+    "last_scan": "2026-10-09T02:04:51.106316",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "hidenaka/taxi-daily-report": {
+    "last_scan": "2026-10-09T02:12:04.218384",
+    "findings_count": 890,
+    "scan_type": "auto:ai-projects"
+  },
+  "dragonH/dragonH": {
+    "last_scan": "2026-10-09T02:12:10.758052",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "hidenaka/-taxi-daily-report-dev": {
+    "last_scan": "2026-10-09T02:21:53.173340",
+    "findings_count": 890,
+    "scan_type": "auto:ai-projects"
+  },
+  "Tosidxyy/StockPilot": {
+    "last_scan": "2026-10-09T02:24:50.379633",
+    "findings_count": 969,
+    "scan_type": "auto:ai-projects"
+  },
+  "gyori-andris/autoresearch": {
+    "last_scan": "2026-10-09T02:49:37.668636",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
   }
 }
