@@ -1893,5 +1893,30 @@
     "last_scan": "2026-10-09T02:49:37.668636",
     "findings_count": 0,
     "scan_type": "auto:ai-projects"
+  },
+  "mfeyetdaniel/elyzoragroup": {
+    "last_scan": "2026-10-10T01:36:47.552637",
+    "findings_count": 524,
+    "scan_type": "auto:ai-projects"
+  },
+  "ceosupreme/powersai": {
+    "last_scan": "2026-10-10T01:58:16.386248",
+    "findings_count": 2975,
+    "scan_type": "auto:ai-projects"
+  },
+  "Trlydev/SWG": {
+    "last_scan": "2026-10-10T02:01:09.445779",
+    "findings_count": 112,
+    "scan_type": "auto:ai-projects"
+  },
+  "Deasus/firestorm-ngfs-data": {
+    "last_scan": "2026-10-10T02:01:18.089450",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "thomas-hiddenpeak/Qwen3x-Orin": {
+    "last_scan": "2026-10-10T02:52:16.136853",
+    "findings_count": 21503,
+    "scan_type": "auto:ai-projects"
   }
 }
