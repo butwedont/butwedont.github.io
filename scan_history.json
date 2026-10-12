@@ -1973,5 +1973,15 @@
     "last_scan": "2026-10-11T02:08:02.112463",
     "findings_count": 3858,
     "scan_type": "auto:ai-projects"
+  },
+  "marvenpiadri/dollareus": {
+    "last_scan": "2026-10-12T01:07:18.455269",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "zhou526316-sys/organic-synthesis-gallery": {
+    "last_scan": "2026-10-12T02:18:36.455183",
+    "findings_count": 31916,
+    "scan_type": "auto:ai-projects"
   }
 }
