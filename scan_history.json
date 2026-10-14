@@ -2013,5 +2013,10 @@
     "last_scan": "2026-10-13T04:06:29.106521",
     "findings_count": 675,
     "scan_type": "auto:ai-projects"
+  },
+  "IstiN/flutter_agent_harness": {
+    "last_scan": "2026-10-14T03:03:55.124763",
+    "findings_count": 2313,
+    "scan_type": "auto:ai-projects"
   }
 }
