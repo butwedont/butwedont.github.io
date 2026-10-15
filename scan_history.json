@@ -2018,5 +2018,40 @@
     "last_scan": "2026-10-14T03:03:55.124763",
     "findings_count": 2313,
     "scan_type": "auto:ai-projects"
+  },
+  "carlosduplar/eleicoes-2026-monitor": {
+    "last_scan": "2026-10-15T00:26:37.987793",
+    "findings_count": 591,
+    "scan_type": "auto:ai-projects"
+  },
+  "Gabriel-AI-CSM/joplin-v300-release-tools": {
+    "last_scan": "2026-10-15T00:26:45.798827",
+    "findings_count": 488,
+    "scan_type": "auto:ai-projects"
+  },
+  "CharmingLyy/investment-tracker": {
+    "last_scan": "2026-10-15T00:28:38.954308",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "Krycskn05/lernkoko": {
+    "last_scan": "2026-10-15T00:37:59.509464",
+    "findings_count": 1907,
+    "scan_type": "auto:ai-projects"
+  },
+  "Tmd195/work-facebook": {
+    "last_scan": "2026-10-15T00:41:35.431062",
+    "findings_count": 8,
+    "scan_type": "auto:ai-projects"
+  },
+  "waynelord0628-beep/auto-learning-bot": {
+    "last_scan": "2026-10-15T00:52:23.674107",
+    "findings_count": 9,
+    "scan_type": "auto:ai-projects"
+  },
+  "open-paleo/data": {
+    "last_scan": "2026-10-15T03:32:00.365821",
+    "findings_count": 425,
+    "scan_type": "auto:ai-projects"
   }
 }
