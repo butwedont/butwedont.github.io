@@ -2058,5 +2058,55 @@
     "last_scan": "2026-10-16T01:13:19.183737",
     "findings_count": 17068,
     "scan_type": "auto:ai-projects"
+  },
+  "obto-inc/agent-bridge": {
+    "last_scan": "2026-10-17T23:51:57.780512",
+    "findings_count": 3,
+    "scan_type": "auto:ai-projects"
+  },
+  "tehZevo/bots": {
+    "last_scan": "2026-10-17T23:52:51.198625",
+    "findings_count": 460,
+    "scan_type": "auto:ai-projects"
+  },
+  "alaminsohagofficial/minister-erp-engine": {
+    "last_scan": "2026-10-17T23:53:13.182890",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "KeechBB/bb-squad-platform": {
+    "last_scan": "2026-10-18T00:00:49.433822",
+    "findings_count": 849,
+    "scan_type": "auto:ai-projects"
+  },
+  "vonsidy/cooldecide-bot": {
+    "last_scan": "2026-10-18T00:01:44.524712",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "ArisugawaAn/update-monitor": {
+    "last_scan": "2026-10-18T00:02:16.440067",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "bl0ckb0lt/signal-scout": {
+    "last_scan": "2026-10-18T00:02:44.731114",
+    "findings_count": 21,
+    "scan_type": "auto:ai-projects"
+  },
+  "Research-Tusk/nse-cloud-pipeline": {
+    "last_scan": "2026-10-18T00:03:45.247718",
+    "findings_count": 7,
+    "scan_type": "auto:ai-projects"
+  },
+  "ssitari/ChoroplethEDATwomaps": {
+    "last_scan": "2026-10-18T00:03:51.663029",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "DuelingDomain/yugioh-bot": {
+    "last_scan": "2026-10-18T01:58:18.807514",
+    "findings_count": 1103,
+    "scan_type": "auto:ai-projects"
   }
 }
