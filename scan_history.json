@@ -2108,5 +2108,40 @@
     "last_scan": "2026-10-18T01:58:18.807514",
     "findings_count": 1103,
     "scan_type": "auto:ai-projects"
+  },
+  "EduardoLeao-system/concurseAI": {
+    "last_scan": "2026-10-18T23:59:30.275919",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "kort0881/telegram-proxy-collector": {
+    "last_scan": "2026-10-19T00:00:38.715473",
+    "findings_count": 1094,
+    "scan_type": "auto:ai-projects"
+  },
+  "aashi2025/stock-scanner": {
+    "last_scan": "2026-10-19T00:02:44.048423",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mwakidenis/WebCheck-OSINT": {
+    "last_scan": "2026-10-19T00:08:19.645247",
+    "findings_count": 1168,
+    "scan_type": "auto:ai-projects"
+  },
+  "tsethwilliams/isitsafetovisit": {
+    "last_scan": "2026-10-19T00:17:51.133605",
+    "findings_count": 690,
+    "scan_type": "auto:ai-projects"
+  },
+  "thuexemayhanoi/wp-writer": {
+    "last_scan": "2026-10-19T00:26:25.142910",
+    "findings_count": 432,
+    "scan_type": "auto:ai-projects"
+  },
+  "DataZooDE/anofox-visualization": {
+    "last_scan": "2026-10-19T00:59:47.610559",
+    "findings_count": 132,
+    "scan_type": "auto:ai-projects"
   }
 }
