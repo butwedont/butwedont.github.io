@@ -2143,5 +2143,50 @@
     "last_scan": "2026-10-19T00:59:47.610559",
     "findings_count": 132,
     "scan_type": "auto:ai-projects"
+  },
+  "b-1-o/shopline": {
+    "last_scan": "2026-10-20T00:57:42.107986",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "zeexz/zeexz": {
+    "last_scan": "2026-10-20T00:57:48.989207",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Program451/iTU": {
+    "last_scan": "2026-10-20T00:59:32.574914",
+    "findings_count": 72,
+    "scan_type": "auto:ai-projects"
+  },
+  "Alisa007/business-obligations": {
+    "last_scan": "2026-10-20T01:07:20.741810",
+    "findings_count": 1800,
+    "scan_type": "auto:ai-projects"
+  },
+  "wildstuff/lakelands": {
+    "last_scan": "2026-10-20T01:23:04.842319",
+    "findings_count": 47,
+    "scan_type": "auto:ai-projects"
+  },
+  "Wittyusername12/ctrl-alt-defeat-graphrag": {
+    "last_scan": "2026-10-20T01:25:57.168575",
+    "findings_count": 439,
+    "scan_type": "auto:ai-projects"
+  },
+  "prjoni99/deckle": {
+    "last_scan": "2026-10-20T01:29:01.010554",
+    "findings_count": 107,
+    "scan_type": "auto:ai-projects"
+  },
+  "G-enterpriseGroup/Screeners": {
+    "last_scan": "2026-10-20T01:31:11.160350",
+    "findings_count": 9,
+    "scan_type": "auto:ai-projects"
+  },
+  "kobayashir13ed-cmd/auto-blog": {
+    "last_scan": "2026-10-20T01:57:42.274338",
+    "findings_count": 6,
+    "scan_type": "auto:ai-projects"
   }
 }
