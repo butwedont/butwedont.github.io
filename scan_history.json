@@ -2213,5 +2213,15 @@
     "last_scan": "2026-10-21T01:40:28.570949",
     "findings_count": 2768,
     "scan_type": "auto:ai-projects"
+  },
+  "ThomasRhoden/pc-polimata": {
+    "last_scan": "2026-10-22T00:30:25.182615",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "lsm/HyperNeo": {
+    "last_scan": "2026-10-22T02:39:05.801490",
+    "findings_count": 7732,
+    "scan_type": "auto:ai-projects"
   }
 }
