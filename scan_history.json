@@ -2258,5 +2258,25 @@
     "last_scan": "2026-10-23T01:42:47.070151",
     "findings_count": 5060,
     "scan_type": "auto:ai-projects"
+  },
+  "soulmachine/omarchy-provision": {
+    "last_scan": "2026-10-24T00:27:07.812250",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "zouhairelayni/MemoryRelay": {
+    "last_scan": "2026-10-24T00:28:41.202964",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "doublehidenblade/game-dev-central": {
+    "last_scan": "2026-10-24T00:36:08.729101",
+    "findings_count": 11073,
+    "scan_type": "auto:ai-projects"
+  },
+  "tyfaucher24-ops/internship-radar": {
+    "last_scan": "2026-10-24T01:22:56.119586",
+    "findings_count": 11,
+    "scan_type": "auto:ai-projects"
   }
 }
