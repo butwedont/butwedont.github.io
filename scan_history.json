@@ -2298,5 +2298,55 @@
     "last_scan": "2026-10-25T01:14:51.846307",
     "findings_count": 0,
     "scan_type": "auto:ai-projects"
+  },
+  "Komaster12454/sdg": {
+    "last_scan": "2026-10-25T23:56:51.835244",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Rhea778/global-news": {
+    "last_scan": "2026-10-25T23:57:15.402166",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ChaitanyaKurumella/claims-workflow-api": {
+    "last_scan": "2026-10-25T23:58:19.395380",
+    "findings_count": 857,
+    "scan_type": "auto:ai-projects"
+  },
+  "Kaashviw3spaces/Idler": {
+    "last_scan": "2026-10-25T23:59:56.927442",
+    "findings_count": 960,
+    "scan_type": "auto:ai-projects"
+  },
+  "ahmetsake123-collab/futsim-web": {
+    "last_scan": "2026-10-26T00:00:30.633313",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "AntonyPerez0/job-autopilot-desktop": {
+    "last_scan": "2026-10-26T00:02:15.831323",
+    "findings_count": 604,
+    "scan_type": "auto:ai-projects"
+  },
+  "ArizalaRonAndrew/CAPSTONE-WeighToGo": {
+    "last_scan": "2026-10-26T00:04:35.085038",
+    "findings_count": 1030,
+    "scan_type": "auto:ai-projects"
+  },
+  "Lordshrrred/VibrationofAwesome": {
+    "last_scan": "2026-10-26T00:20:58.226950",
+    "findings_count": 243,
+    "scan_type": "auto:ai-projects"
+  },
+  "mikieee25/helios-firefox": {
+    "last_scan": "2026-10-26T00:21:31.047865",
+    "findings_count": 741,
+    "scan_type": "auto:ai-projects"
+  },
+  "Aether-Panel/Panel": {
+    "last_scan": "2026-10-26T00:57:20.495311",
+    "findings_count": 1885,
+    "scan_type": "auto:ai-projects"
   }
 }
