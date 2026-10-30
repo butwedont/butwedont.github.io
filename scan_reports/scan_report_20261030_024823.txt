@@ -1,0 +1,4814 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║          🔒 InCloud GitHub 云上扫描器 - 扫描报告                                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📋 扫描信息
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🕐 扫描时间:     2026-10-30 02:48:23
+  🎯 扫描类型:     auto:ai-projects
+  🔴 发现问题数:   319 个
+  📦 涉及仓库数:   1 个
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 📦 仓库: https://github.com/yennanliu/finance_data
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+  ┌─ 问题 #1 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 211
+  │
+  │ 🔑 密钥内容: Reve********************************ding
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "RevenueFromContractWithCustomerExcludingAssessedTax",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #2 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 211
+  │
+  │ 🔑 密钥内容: Reve*******************************************dTax
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "RevenueFromContractWithCustomerExcludingAssessedTax",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #3 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 212
+  │
+  │ 🔑 密钥内容: Reve********************************ding
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "RevenueFromContractWithCustomerIncludingAssessedTax",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #4 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 212
+  │
+  │ 🔑 密钥内容: Reve*******************************************dTax
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "RevenueFromContractWithCustomerIncludingAssessedTax",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #5 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 221
+  │
+  │ 🔑 密钥内容: Weig********************************Outs
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "WeightedAverageNumberOfDilutedSharesOutstanding",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #6 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 221
+  │
+  │ 🔑 密钥内容: Weig***************************************ding
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "WeightedAverageNumberOfDilutedSharesOutstanding",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #7 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 222
+  │
+  │ 🔑 密钥内容: Weig********************************ding
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "WeightedAverageNumberOfSharesOutstandingBasicAndDiluted",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #8 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 222
+  │
+  │ 🔑 密钥内容: Weig***********************************************uted
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "WeightedAverageNumberOfSharesOutstandingBasicAndDiluted",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #9 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 226
+  │
+  │ 🔑 密钥内容: Rese********************************ngAc
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #10 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 226
+  │
+  │ 🔑 密钥内容: Rese***************************************************Cost
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #11 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 229
+  │
+  │ 🔑 密钥内容: Sell******************************ense
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "SellingGeneralAndAdministrativeExpense",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #12 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 233
+  │
+  │ 🔑 密钥内容: Depr****************************tion
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "DepreciationDepletionAndAmortization",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #13 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 234
+  │
+  │ 🔑 密钥内容: Depr*******************************nNet
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "DepreciationAmortizationAndAccretionNet",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #14 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 242
+  │
+  │ 🔑 密钥内容: NetC********************************viti
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "NetCashProvidedByUsedInOperatingActivities",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #15 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 242
+  │
+  │ 🔑 密钥内容: NetC**********************************ties
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "NetCashProvidedByUsedInOperatingActivities",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #16 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 243
+  │
+  │ 🔑 密钥内容: NetC********************************viti
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #17 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 243
+  │
+  │ 🔑 密钥内容: NetC******************************************************ions
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #18 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 246
+  │
+  │ 🔑 密钥内容: Paym********************************ipme
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "PaymentsToAcquirePropertyPlantAndEquipment",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #19 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 246
+  │
+  │ 🔑 密钥内容: Paym**********************************ment
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "PaymentsToAcquirePropertyPlantAndEquipment",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #20 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 247
+  │
+  │ 🔑 密钥内容: Paym*************************sets
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "PaymentsToAcquireProductiveAssets",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #21 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 251
+  │
+  │ 🔑 密钥内容: Allo******************************ense
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "AllocatedShareBasedCompensationExpense",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #22 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 260
+  │
+  │ 🔑 密钥内容: Paym**************************tock
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "PaymentsForRepurchaseOfCommonStock", "PaymentsForRepurchaseOfEquity",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #23 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 267
+  │
+  │ 🔑 密钥内容: Inco********************************fore
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #24 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 267
+  │
+  │ 🔑 密钥内容: Inco********************************roll
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #25 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 267
+  │
+  │ 🔑 密钥内容: Inco***********************************************************************************rest
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #26 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 268
+  │
+  │ 🔑 密钥内容: Inco********************************fore
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #27 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 268
+  │
+  │ 🔑 密钥内容: Inco********************************Loss
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #28 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 268
+  │
+  │ 🔑 密钥内容: Inco***************************************************************************************************ents
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #29 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 274
+  │
+  │ 🔑 密钥内容: Cash*****************************alue
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "CashAndCashEquivalentsAtCarryingValue",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #30 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 275
+  │
+  │ 🔑 密钥内容: Cash********************************Rest
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #31 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 275
+  │
+  │ 🔑 密钥内容: Cash*****************************************************ents
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #32 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 279
+  │
+  │ 🔑 密钥内容: Avai********************************ties
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "AvailableForSaleSecuritiesDebtSecuritiesCurrent",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #33 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 279
+  │
+  │ 🔑 密钥内容: Avai***************************************rent
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "AvailableForSaleSecuritiesDebtSecuritiesCurrent",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #34 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 286
+  │
+  │ 🔑 密钥内容: Stoc********************************trib
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #35 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 286
+  │
+  │ 🔑 密钥内容: Stoc**************************************************************rest
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #36 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 293
+  │
+  │ 🔑 密钥内容: Reta**************************icit
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "retained_earnings": ("RetainedEarningsAccumulatedDeficit",),
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #37 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: scripts/analysis/data/fundamentals.py
+  │ 📍 行号: 296
+  │
+  │ 🔑 密钥内容: Inta****************************will
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    "IntangibleAssetsNetExcludingGoodwill", "FiniteLivedIntangibleAssetsNet",
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #38 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: docs/FUNDAMENTALS_STORE_EVAL.md
+  │ 📍 行号: 241
+  │
+  │ 🔑 密钥内容: Prof******************************rent
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    `ProfitLossAttributableToOwnersOfParent`, …), so a second mapping recovers them —
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #39 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: docs/FUNDAMENTALS_STORE_EVAL.md
+  │ 📍 行号: 335
+  │
+  │ 🔑 密钥内容: Segm********************************itLo
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    `NumberOfReportableSegments`, `SegmentReportingSegmentOperatingProfitLoss` and
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #40 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: docs/FUNDAMENTALS_STORE_EVAL.md
+  │ 📍 行号: 335
+  │
+  │ 🔑 密钥内容: Segm**********************************Loss
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    `NumberOfReportableSegments`, `SegmentReportingSegmentOperatingProfitLoss` and
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #41 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: docs/FUNDAMENTALS_STORE_EVAL.md
+  │ 📍 行号: 336
+  │
+  │ 🔑 密钥内容: Segm********************************dAss
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    `SegmentExpenditureAdditionToLongLivedAssets` — counts and totals, no per-segment
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #42 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: docs/FUNDAMENTALS_STORE_EVAL.md
+  │ 📍 行号: 336
+  │
+  │ 🔑 密钥内容: Segm***********************************sets
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    `SegmentExpenditureAdditionToLongLivedAssets` — counts and totals, no per-segment
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #43 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #44 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: kgEA********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #45 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: gMzi********************************AQAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #46 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAOC********************************2rX9
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #47 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #48 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #49 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAIB********************************Mc4B
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #50 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************AQIH
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #51 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #52 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAEA********************************NioB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #53 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************AQFM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #54 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: dgEA********************************AAAD
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #55 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA********************************AMB1
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #56 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA********************************AIDr
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #57 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA********************************AGCS
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #58 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA********************************AKC5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #59 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 1n1A********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #60 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QH7B********************************fEAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #61 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAg********************************zSF8
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #62 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA********************************AACI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #63 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ZnpA********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #64 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: wJ8D********************************eUAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #65 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************TeEA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #66 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************ghRt
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #67 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 5QAA********************************AAEA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #68 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: zU3l********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #69 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AACl********************************4eEA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #70 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************VB4Q
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #71 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************OCjM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #72 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: HdAA********************************AAAY
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #73 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: Lgid********************************0AAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #74 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ADgo********************************y13Q
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #75 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: e70G********************************AQCx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #76 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************Qx9C
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #77 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQKC
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #78 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: JbiS********************************YU7g
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #79 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: L3Ae********************************JGaA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #80 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: jdMa********************************GIYg
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #81 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ECQx********************************K0jV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #82 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ZVmA********************************QLBk
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #83 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ymMJ********************************C4BA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #84 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAKo********************************HPrw
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #85 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: fFX5********************************ACKs
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #86 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QNCC********************************1Xpl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #87 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************WXQK
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #88 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: eJ8Q********************************G8gW
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #89 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: zldE********************************l3Hp
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #90 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************gOsB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #91 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: eUAA********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #92 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 13d5********************************QAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #93 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AOB6********************************o3lA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #94 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************wMxM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #95 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: eUAA********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #96 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 14d4********************************QAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #97 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AMD1********************************1XZA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #98 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************IK5b
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #99 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: d0AA********************************AACA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #100 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQK6
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #101 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 0BHH********************************HSIB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #102 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 3I9g********************************EAC0
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #103 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************KaNJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #104 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: uIIB********************************A7wA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #105 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************HN4A
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #106 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: pP4B********************************AWnG
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #107 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QFNX********************************nx1N
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #108 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QGrs********************************U3N6
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #109 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QBwe********************************Y40V
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #110 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: tH1A********************************3kIa
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #111 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QG3T********************************11Xi
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #112 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: cX1A********************************RInI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #113 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: mRdU********************************NF4Q
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #114 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: FMBa********************************GC4y
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #115 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: yeEA********************************AAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #116 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: t4QA********************************AAAM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #117 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: D1BH********************************lAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #118 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAQO********************************CkeE
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #119 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************DA9T
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #120 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: B4QA********************************AAAI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #121 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AUGn********************************ZAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #122 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAwB********************************AYd0
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #123 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************Dgei
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #124 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: fBHn********************************oBAL
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #125 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************lbp7
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #126 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQAx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #127 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************2JqQ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #128 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: YBAY********************************swRt
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #129 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQJl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #130 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: Yh3P********************************fjIB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #131 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************pdA2
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #132 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QFte********************************przY
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #133 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: tcuf********************************UCeh
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #134 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QHph********************************FzZd
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #135 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AnJV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #136 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************Bo7Z
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #137 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: d2T5********************************5QB6
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #138 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: R7K1********************************KC3l
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #139 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************A4Hp
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #140 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: oeEA********************************AAAC
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #141 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: APZJ********************************5QAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #142 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAGC********************************USnl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #143 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AAAA********************************AgBT
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #144 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: d0AA********************************AABg
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #145 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: Zp52********************************QAAA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #146 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ACBc********************************D3hA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #147 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQDM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #148 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: zM0t********************************MBYB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #149 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: AiYi********************************3J7U
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #150 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: DgEB********************************amZn
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #151 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************AQM3
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #152 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: MzFT********************************DJ4B
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #153 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 7u3r********************************ofgE
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #154 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 7uTh********************************nAfU
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #155 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: CamZ********************************2tv5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #156 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************KzPT
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #157 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: n1AR********************************czMn
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #158 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: MGjf********************************EBVV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #159 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************n97Q
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #160 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: Kuqq********************************QFAx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #161 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 3pAZ********************************6qqS
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #162 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: l05e********************************UB3d
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #163 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************y7uz
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #164 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: vtSX********************************lA3t
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #165 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************yXhA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #166 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: zczM********************************es15
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #167 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: eEAi********************************zMxs
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #168 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: H8AA********************************ADwI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #169 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QERE********************************EYGr
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #170 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 5X1A********************************zczM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #171 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************yfUC
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #172 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 7upr********************************egfE
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #173 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************3MzJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #174 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: xPK3********************************tAmp
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #175 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: mZMe********************************uae0
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #176 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: Dv7u********************************Sst0
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #177 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: h7QM********************************IiIr
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #178 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************lbK3
+  │ 🎯 匹配规则: [a-zA-Z0-9]{40}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #179 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************AYG5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #180 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************AqrF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #181 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************gLG9
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #182 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************ApNh
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #183 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002***********************************************AAAF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #184 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: kgEA************************************************************************************************************************************AbmJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #185 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************AYD9
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #186 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************Ad4l
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #187 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************A3Z1
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #188 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************giQV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #189 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************Anbx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #190 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************ghr5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #191 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002************************************************************g4o5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #192 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************************************************************************************************************gvf5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #193 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************A3Nd
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #194 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002************************************************************************************************************************************************************AqfB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #195 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************AE8F
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #196 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************gpFF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #197 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA*******************************************************AO65
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #198 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA********************************AIDr
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #199 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA*******************************************************gA01
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #200 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAAA*******************************************************************************************************************************************************************************************************************************AAIB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #201 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ZnpA***************************************************************************************AAGB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #202 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002******************************************************************************************************************************************************************************************************ABAM
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #203 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************************************************************************************************************************************************************************************13QA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #204 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************U1JV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #205 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002***************************YBA7
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #206 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: e70G*********************************************UJDF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #207 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*****************************************************QkX7
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #208 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************hOG5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #209 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************yu6B
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #210 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************duEJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #211 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************Vw9J
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #212 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002************************************************************zXr5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #213 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: JbiS**********************************7gED
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #214 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: L3Ae********************************************UYBA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #215 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: jdMa*******************************************************************************************rsbO
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #216 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: ZVmA*******************************************************************************************AsXl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #217 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************Js9d
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #218 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************9OtJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #219 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QAKo*************************************H1AW
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #220 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: fFX5************************************************f02t
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #221 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QNCC****************************************************BidP
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #222 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*******************************************************************************YH1A
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #223 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: zldE*******************************************************16QI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #224 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************p3QA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #225 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************gdw6
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #226 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************t7hx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #227 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************Nx7J
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #228 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002***************************************************************************************************S5nB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #229 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 3I9g**************************************c0fB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #230 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002************************oNUp
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #231 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************AIQd
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #232 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************RaWZ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #233 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************BEFF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #234 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************fW31
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #235 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************mreZ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #236 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************hLW9
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #237 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************************************************************************sjsT
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #238 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************dpe5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #239 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002******************************************nVBJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #240 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: pP4B************************************************BG9x
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #241 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************YFPZ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #242 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QFNX********************************nx1N
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #243 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QGrs*******************************************************vbjR
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #244 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QBwe***********************************************************************************SO35
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #245 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QG3T***************************************************************X78n
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #246 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: cX1A*****************************************EByc
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #247 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: VGDH**************************Bx8y
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #248 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************AekA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #249 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************hAaK
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #250 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: mRdU*********************************************************************************AAYI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #251 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: yeEA**********************************AAA1
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #252 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: t4QA****************************************************************************************************************************************************************************************************************************************************************************************************************************B3QA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #253 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**************************KwzI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #254 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002************************OLH1
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #255 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************fxvF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #256 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: fBHn********************************oBAL
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #257 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002******************************************************************xfgE
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #258 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************GV2R
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #259 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************126h
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #260 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************gYmN
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #261 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************g1Ih
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #262 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002******************************DbzB
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #263 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************k1fF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #264 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**********************************AxwT
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #265 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**************************************************************************************LUed
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #266 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************************************************************************FetV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #267 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002******************************************************NDnl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #268 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************SqwJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #269 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QFte*******************************************************C1Wd
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #270 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: tcuf**********************************************************************RAGR
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #271 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: MIU5**************************kiX7
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #272 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QHph***********************************************************8QN5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #273 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002***************************************xAxn
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #274 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************5AOt
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #275 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************************************************************************************************************************************************************************************************************************************************************************************************************************************AYGb
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #276 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: d0AA**************************************************************************************************************************************53QA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #277 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************qqpq
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #278 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**********************************************************************************************************************************************************ZnpJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #279 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************WAdp
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #280 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************qMr9
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #281 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************mmpt
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #282 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************XmpR
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #283 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************oDad
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #284 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************zMxs
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #285 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************j5tV
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #286 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************mlP5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #287 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**********************************************************************************************************YBA7
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #288 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 7u3r**********************************************************************IiIq
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #289 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************t1Lx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #290 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************QmpF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #291 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************KW2F
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #292 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************tbtR
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #293 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 7uTh*******************************************************************************Hd3d
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #294 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************************************************************************************************VXF8
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #295 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*****************************************************************************************************************************************************************t5QO
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #296 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**************************************************************************************************dyey
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #297 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002******************************************************************************************************************************************************J4QA
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #298 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: H8AA**********************************wIa5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #299 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************yq7l
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #300 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************BScl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #301 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************liNd
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #302 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************khOl
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #303 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************1ge9
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #304 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************IXvh
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #305 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*******************************VRWI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #306 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************N0uJ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #307 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************0G7l
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #308 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************zwKF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #309 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************tV3B
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #310 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************wtVt
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #311 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************TEkZ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #312 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************qwi5
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #313 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002****************************YKwh
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #314 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************NFzZ
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #315 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: QERE***************************************************************************MtLx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #316 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002*************************************************ANhF
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #317 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: 7upr********************************************l8QO
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #318 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002********************************************************************************************************************************************************************************************************************************d3dx
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 问题 #319 ──────────────────────────────────────────────────────────────────
+  │
+  │ 🟢 风险等级: 低危 - 可忽略
+  │
+  │ 📄 文件路径: claude_code/msft/technical_analysis_2026-04-11_interactive_test.md
+  │ 📍 行号: 29
+  │
+  │ 🔑 密钥内容: u002**********************************************************************iYiI
+  │ 🎯 匹配规则: [a-zA-Z0-9]{32,}
+  │
+  │ 💻 代码片段:
+  │    <script charset="utf-8" src="https://cdn.plot.ly/plotly-3.5.0.min.js" integrity="sha256-fHbNLP+GlIXN+efbQec78UkemUz3NJp7UmfGxC1tNxs=" crossorigin="anonymous"></script>                <div id="candlest
+  │
+  └──────────────────────────────────────────────────────────────────────────────
+
+
+📊 统计信息
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔴 高危: 0
+  🟡 中危: 0
+  🟢 低危: 319
+
+🛡️ 安全建议
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  1. 立即撤销泄露的API密钥（在服务商控制台操作）
+  2. 检查密钥是否被滥用（查看访问日志）
+  3. 从Git历史中彻底删除敏感信息（使用 git filter-branch 或 BFG）
+  4. 使用环境变量或密钥管理服务（如Vault）存储密钥
+  5. 在.gitignore中添加.env等敏感文件

@@ -2533,5 +2533,20 @@
     "last_scan": "2026-10-29T02:47:38.047595",
     "findings_count": 225,
     "scan_type": "auto:ai-projects"
+  },
+  "kiefer12345/market-matrix-updater": {
+    "last_scan": "2026-10-30T01:41:33.803822",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "authapon/jonnyq-rust": {
+    "last_scan": "2026-10-30T01:42:36.061350",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "yennanliu/finance_data": {
+    "last_scan": "2026-10-30T02:48:23.873021",
+    "findings_count": 319,
+    "scan_type": "auto:ai-projects"
   }
 }
