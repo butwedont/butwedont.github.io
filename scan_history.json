@@ -2548,5 +2548,10 @@
     "last_scan": "2026-10-30T02:48:23.873021",
     "findings_count": 319,
     "scan_type": "auto:ai-projects"
+  },
+  "zygote55/sketchyup": {
+    "last_scan": "2026-11-01T01:59:47.925997",
+    "findings_count": 1110,
+    "scan_type": "auto:ai-projects"
   }
 }
