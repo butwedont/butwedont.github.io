@@ -2643,5 +2643,60 @@
     "last_scan": "2026-11-03T04:24:22.645590",
     "findings_count": 2724,
     "scan_type": "auto:ai-projects"
+  },
+  "omarMohamedo-o/historyverse-on-fargate": {
+    "last_scan": "2026-11-04T01:59:56.282826",
+    "findings_count": 3,
+    "scan_type": "auto:ai-projects"
+  },
+  "Morningstar202604/melee": {
+    "last_scan": "2026-11-04T02:03:31.751481",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Kinfxhk/macfeel": {
+    "last_scan": "2026-11-04T02:04:29.781303",
+    "findings_count": 24,
+    "scan_type": "auto:ai-projects"
+  },
+  "jarvan1/aiss": {
+    "last_scan": "2026-11-04T02:05:22.797088",
+    "findings_count": 88,
+    "scan_type": "auto:ai-projects"
+  },
+  "WHR1452/rag": {
+    "last_scan": "2026-11-04T02:09:15.977590",
+    "findings_count": 6,
+    "scan_type": "auto:ai-projects"
+  },
+  "Olbrasoft/lenka-pohanova-to-prehrajto": {
+    "last_scan": "2026-11-04T02:10:28.602817",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "WYgao29/PageShelf": {
+    "last_scan": "2026-11-04T02:15:01.888513",
+    "findings_count": 413,
+    "scan_type": "auto:ai-projects"
+  },
+  "somiYu0720/nasdaq7-radar": {
+    "last_scan": "2026-11-04T02:17:28.359240",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "bertuzzij/wacrm-adapto": {
+    "last_scan": "2026-11-04T02:30:57.612495",
+    "findings_count": 1627,
+    "scan_type": "auto:ai-projects"
+  },
+  "Syarwanfjr/supplement-evidence-stack": {
+    "last_scan": "2026-11-04T02:31:04.275274",
+    "findings_count": 596,
+    "scan_type": "auto:ai-projects"
+  },
+  "DealAppSeo/repid-engine": {
+    "last_scan": "2026-11-04T04:03:35.280396",
+    "findings_count": 1685,
+    "scan_type": "auto:ai-projects"
   }
 }
