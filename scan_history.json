@@ -2698,5 +2698,70 @@
     "last_scan": "2026-11-04T04:03:35.280396",
     "findings_count": 1685,
     "scan_type": "auto:ai-projects"
+  },
+  "oufalux/network-aprove": {
+    "last_scan": "2026-11-05T02:03:00.813846",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "u202219637/Chatbot_Omnicanal": {
+    "last_scan": "2026-11-05T02:05:27.447902",
+    "findings_count": 77,
+    "scan_type": "auto:ai-projects"
+  },
+  "OHaEuN/tonebit": {
+    "last_scan": "2026-11-05T02:09:01.205670",
+    "findings_count": 912,
+    "scan_type": "auto:ai-projects"
+  },
+  "0xRadikal/Free-Telegram-Proxy": {
+    "last_scan": "2026-11-05T02:12:53.984239",
+    "findings_count": 44,
+    "scan_type": "auto:ai-projects"
+  },
+  "Marksmon/Aria": {
+    "last_scan": "2026-11-05T02:22:19.135682",
+    "findings_count": 279,
+    "scan_type": "auto:ai-projects"
+  },
+  "psychofict/codexwatch": {
+    "last_scan": "2026-11-05T02:23:45.754502",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "villabacho-cmyk/regenradar-pwa": {
+    "last_scan": "2026-11-05T02:24:04.875684",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "ITK03/Stock_open_news": {
+    "last_scan": "2026-11-05T02:27:07.278999",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "hproxy-com/free-proxy-list": {
+    "last_scan": "2026-11-05T02:30:57.912716",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "leona5139/choice_reversals": {
+    "last_scan": "2026-11-05T02:31:47.090250",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "gautamp1738/Spawnbook": {
+    "last_scan": "2026-11-05T02:32:58.004146",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "bayusamudras/nasdaq-agent": {
+    "last_scan": "2026-11-05T02:33:11.244727",
+    "findings_count": 1358,
+    "scan_type": "auto:ai-projects"
+  },
+  "briando979-netizen/zekerflex-finale": {
+    "last_scan": "2026-11-05T04:28:40.541774",
+    "findings_count": 1582,
+    "scan_type": "auto:ai-projects"
   }
 }
