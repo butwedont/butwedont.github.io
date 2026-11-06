@@ -2763,5 +2763,35 @@
     "last_scan": "2026-11-05T04:28:40.541774",
     "findings_count": 1582,
     "scan_type": "auto:ai-projects"
+  },
+  "SaadxSalman/Aetheris-Core": {
+    "last_scan": "2026-11-06T02:05:06.893630",
+    "findings_count": 350,
+    "scan_type": "auto:ai-projects"
+  },
+  "litkhai/runpod-hols": {
+    "last_scan": "2026-11-06T02:17:49.332139",
+    "findings_count": 4,
+    "scan_type": "auto:ai-projects"
+  },
+  "natsunokito-byte/Triplanner": {
+    "last_scan": "2026-11-06T02:19:56.709060",
+    "findings_count": 936,
+    "scan_type": "auto:ai-projects"
+  },
+  "bokyostudio/pg-practice-knowledgebase": {
+    "last_scan": "2026-11-06T02:20:02.711297",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "StartGlobal-AI/agentfirststack": {
+    "last_scan": "2026-11-06T02:32:23.049009",
+    "findings_count": 1744,
+    "scan_type": "auto:ai-projects"
+  },
+  "kiemtimem123/so-lieu": {
+    "last_scan": "2026-11-06T03:07:46.965719",
+    "findings_count": 625,
+    "scan_type": "auto:ai-projects"
   }
 }
