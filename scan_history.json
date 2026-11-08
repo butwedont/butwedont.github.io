@@ -2838,5 +2838,65 @@
     "last_scan": "2026-11-07T02:43:33.612693",
     "findings_count": 0,
     "scan_type": "auto:ai-projects"
+  },
+  "Just-Rice/food-log": {
+    "last_scan": "2026-11-08T01:12:11.849345",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "REVREBEL/seo-api": {
+    "last_scan": "2026-11-08T01:24:57.318044",
+    "findings_count": 721,
+    "scan_type": "auto:ai-projects"
+  },
+  "vasiliad/kg": {
+    "last_scan": "2026-11-08T01:26:44.729968",
+    "findings_count": 39,
+    "scan_type": "auto:ai-projects"
+  },
+  "theChosen16/UTFSM_Cubesat_team": {
+    "last_scan": "2026-11-08T01:28:58.114060",
+    "findings_count": 1934,
+    "scan_type": "auto:ai-projects"
+  },
+  "kailebbryant2-gif/356systems": {
+    "last_scan": "2026-11-08T01:29:35.839511",
+    "findings_count": 420,
+    "scan_type": "auto:ai-projects"
+  },
+  "iwandres/PunFiction": {
+    "last_scan": "2026-11-08T01:36:32.984255",
+    "findings_count": 12,
+    "scan_type": "auto:ai-projects"
+  },
+  "julianalfarizi/julian-AI-engginer": {
+    "last_scan": "2026-11-08T01:36:35.623464",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "yodarango/tanjreen": {
+    "last_scan": "2026-11-08T01:37:21.504163",
+    "findings_count": 523,
+    "scan_type": "auto:ai-projects"
+  },
+  "krushnawagh470-ops/swingtraderkrushna": {
+    "last_scan": "2026-11-08T01:37:35.463109",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mhmdbary/volta-radar": {
+    "last_scan": "2026-11-08T01:37:52.762369",
+    "findings_count": 14,
+    "scan_type": "auto:ai-projects"
+  },
+  "Mikooeu/Spec": {
+    "last_scan": "2026-11-08T01:39:45.499723",
+    "findings_count": 301,
+    "scan_type": "auto:ai-projects"
+  },
+  "messagegabrielhere-lgtm/doomcon": {
+    "last_scan": "2026-11-08T03:12:39.790130",
+    "findings_count": 5879,
+    "scan_type": "auto:ai-projects"
   }
 }
