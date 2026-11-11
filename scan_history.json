@@ -2943,5 +2943,50 @@
     "last_scan": "2026-11-10T05:30:56.879664",
     "findings_count": 1243,
     "scan_type": "auto:ai-projects"
+  },
+  "lineeye-ai/scis": {
+    "last_scan": "2026-11-11T01:45:34.108084",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "cesiumoq/freemilk": {
+    "last_scan": "2026-11-11T01:45:47.583669",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "sudo-kachponz/doctorsaur": {
+    "last_scan": "2026-11-11T01:58:51.839378",
+    "findings_count": 191,
+    "scan_type": "auto:ai-projects"
+  },
+  "mriki021212-collab/morning-report": {
+    "last_scan": "2026-11-11T02:00:44.571820",
+    "findings_count": 12380,
+    "scan_type": "auto:ai-projects"
+  },
+  "numibesi/parlez": {
+    "last_scan": "2026-11-11T02:01:53.561366",
+    "findings_count": 823,
+    "scan_type": "auto:ai-projects"
+  },
+  "joshbegley/nyt-latest": {
+    "last_scan": "2026-11-11T02:16:10.945636",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "indmdevbots/Free-Telegram-Store-Bot": {
+    "last_scan": "2026-11-11T02:16:42.205759",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "jeffbeard/claude-status-bar": {
+    "last_scan": "2026-11-11T02:19:16.748554",
+    "findings_count": 12,
+    "scan_type": "auto:ai-projects"
+  },
+  "Lozadaa/nomos-for-unreal": {
+    "last_scan": "2026-11-11T03:03:01.836143",
+    "findings_count": 1214,
+    "scan_type": "auto:ai-projects"
   }
 }
