@@ -2988,5 +2988,70 @@
     "last_scan": "2026-11-11T03:03:01.836143",
     "findings_count": 1214,
     "scan_type": "auto:ai-projects"
+  },
+  "umbongo/nutshell": {
+    "last_scan": "2026-11-13T02:39:57.411469",
+    "findings_count": 8,
+    "scan_type": "auto:ai-projects"
+  },
+  "likefudan/badminton_analysis": {
+    "last_scan": "2026-11-13T02:40:56.121325",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "walladanger/Agent-Watch": {
+    "last_scan": "2026-11-13T02:41:02.060305",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "bloomstarbms/market-radar": {
+    "last_scan": "2026-11-13T02:43:27.192029",
+    "findings_count": 329,
+    "scan_type": "auto:ai-projects"
+  },
+  "zanzarini/2f": {
+    "last_scan": "2026-11-13T02:44:47.595389",
+    "findings_count": 119,
+    "scan_type": "auto:ai-projects"
+  },
+  "rustytensor/riley-desktop-agent": {
+    "last_scan": "2026-11-13T02:45:37.145959",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "v1k22/xpu-serve": {
+    "last_scan": "2026-11-13T02:52:43.681509",
+    "findings_count": 54,
+    "scan_type": "auto:ai-projects"
+  },
+  "indmdevbots/telegram-summary-bot": {
+    "last_scan": "2026-11-13T02:52:48.059761",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "challenge-generator-dev/challenge-2c90bae4-ebff-416f-8d05-32c47ac979dd": {
+    "last_scan": "2026-11-13T02:53:19.222088",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "jamesmcnamara/shortlist": {
+    "last_scan": "2026-11-13T03:02:15.209520",
+    "findings_count": 573,
+    "scan_type": "auto:ai-projects"
+  },
+  "karthikjkjk/Chat-ai": {
+    "last_scan": "2026-11-13T03:02:17.408224",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "jeiel85/Madang": {
+    "last_scan": "2026-11-13T03:02:59.875967",
+    "findings_count": 9,
+    "scan_type": "auto:ai-projects"
+  },
+  "cimbolicproductions/ai-first-os": {
+    "last_scan": "2026-11-13T03:28:33.385783",
+    "findings_count": 7,
+    "scan_type": "auto:ai-projects"
   }
 }
