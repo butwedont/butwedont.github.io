@@ -3083,5 +3083,25 @@
     "last_scan": "2026-11-16T02:41:15.044638",
     "findings_count": 592,
     "scan_type": "auto:ai-projects"
+  },
+  "lucianobfs/lucianobfs": {
+    "last_scan": "2026-11-17T04:22:07.661550",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "MiguelGotea/club.batidospitaya": {
+    "last_scan": "2026-11-17T04:30:47.406977",
+    "findings_count": 22,
+    "scan_type": "auto:ai-projects"
+  },
+  "Ezio2000/DrawY": {
+    "last_scan": "2026-11-17T04:59:57.776420",
+    "findings_count": 558,
+    "scan_type": "auto:ai-projects"
+  },
+  "spkc83/folio": {
+    "last_scan": "2026-11-17T05:26:45.575279",
+    "findings_count": 375,
+    "scan_type": "auto:ai-projects"
   }
 }
