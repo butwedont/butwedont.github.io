@@ -3103,5 +3103,80 @@
     "last_scan": "2026-11-17T05:26:45.575279",
     "findings_count": 375,
     "scan_type": "auto:ai-projects"
+  },
+  "ENZOSQS/areia-hostil-abate": {
+    "last_scan": "2026-11-18T03:25:23.432183",
+    "findings_count": 8,
+    "scan_type": "auto:ai-projects"
+  },
+  "taran-dev4u/open-source-contribution-bot": {
+    "last_scan": "2026-11-18T03:25:48.154457",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "rwilli56/luma": {
+    "last_scan": "2026-11-18T03:26:47.441536",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "lyle-0013/ecommerce-provider-routing-adr": {
+    "last_scan": "2026-11-18T03:26:58.045787",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "soumik183/bitacode": {
+    "last_scan": "2026-11-18T03:29:58.927822",
+    "findings_count": 647,
+    "scan_type": "auto:ai-projects"
+  },
+  "andrsnn/keywarden": {
+    "last_scan": "2026-11-18T03:30:40.692796",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "gdy4803-maker/stock-bar": {
+    "last_scan": "2026-11-18T03:30:54.621105",
+    "findings_count": 543,
+    "scan_type": "auto:ai-projects"
+  },
+  "CandidoRPNeto/15SOAT-Fase1": {
+    "last_scan": "2026-11-18T03:36:37.279912",
+    "findings_count": 280,
+    "scan_type": "auto:ai-projects"
+  },
+  "griscovaldez-droid/agente-rag-contracargos": {
+    "last_scan": "2026-11-18T03:36:40.782771",
+    "findings_count": 9,
+    "scan_type": "auto:ai-projects"
+  },
+  "mrshoaib7xd-sudo/Elite-reach": {
+    "last_scan": "2026-11-18T03:36:42.752417",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "abrillm456/grokathonProject": {
+    "last_scan": "2026-11-18T03:37:48.442465",
+    "findings_count": 915,
+    "scan_type": "auto:ai-projects"
+  },
+  "theanrawich/Kaew": {
+    "last_scan": "2026-11-18T03:39:32.330361",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "FinpeakInc/frevana-skills": {
+    "last_scan": "2026-11-18T04:01:17.219497",
+    "findings_count": 7,
+    "scan_type": "auto:ai-projects"
+  },
+  "arnavpopley/tube-delay-dynamics-heartbeat": {
+    "last_scan": "2026-11-18T04:01:19.986561",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "sunycoder/protolens": {
+    "last_scan": "2026-11-18T04:25:29.249860",
+    "findings_count": 239,
+    "scan_type": "auto:ai-projects"
   }
 }
