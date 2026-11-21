@@ -3178,5 +3178,20 @@
     "last_scan": "2026-11-18T04:25:29.249860",
     "findings_count": 239,
     "scan_type": "auto:ai-projects"
+  },
+  "BadBagel47/noxari": {
+    "last_scan": "2026-11-21T03:33:31.384102",
+    "findings_count": 304,
+    "scan_type": "auto:ai-projects"
+  },
+  "chvarkov/google-recaptcha": {
+    "last_scan": "2026-11-21T03:35:07.180709",
+    "findings_count": 953,
+    "scan_type": "auto:ai-projects"
+  },
+  "vikasny30/aletheia-aegis": {
+    "last_scan": "2026-11-21T04:01:21.810649",
+    "findings_count": 239,
+    "scan_type": "auto:ai-projects"
   }
 }
