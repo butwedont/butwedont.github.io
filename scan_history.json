@@ -3193,5 +3193,30 @@
     "last_scan": "2026-11-21T04:01:21.810649",
     "findings_count": 239,
     "scan_type": "auto:ai-projects"
+  },
+  "adamgreenwell/coqui": {
+    "last_scan": "2026-11-23T02:25:43.851110",
+    "findings_count": 930,
+    "scan_type": "auto:ai-projects"
+  },
+  "ObeyYourHeart/ai-duixian": {
+    "last_scan": "2026-11-23T02:36:58.494659",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "baraagpt6-droid/dalilna": {
+    "last_scan": "2026-11-23T02:39:10.706334",
+    "findings_count": 36,
+    "scan_type": "auto:ai-projects"
+  },
+  "dudgeon/product-agent-and-harness": {
+    "last_scan": "2026-11-23T02:56:10.043224",
+    "findings_count": 6,
+    "scan_type": "auto:ai-projects"
+  },
+  "Andressd27/Rutix": {
+    "last_scan": "2026-11-23T03:23:35.867766",
+    "findings_count": 107,
+    "scan_type": "auto:ai-projects"
   }
 }
