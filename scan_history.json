@@ -3218,5 +3218,35 @@
     "last_scan": "2026-11-23T03:23:35.867766",
     "findings_count": 107,
     "scan_type": "auto:ai-projects"
+  },
+  "m3ghajoshi/alphaxiv-doomscroll": {
+    "last_scan": "2026-11-24T05:47:41.281985",
+    "findings_count": 967,
+    "scan_type": "auto:ai-projects"
+  },
+  "NarwalThonesun/rance10-english-revision": {
+    "last_scan": "2026-11-24T05:47:52.098682",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "mlfc666/clipocr": {
+    "last_scan": "2026-11-24T05:48:09.234203",
+    "findings_count": 1,
+    "scan_type": "auto:ai-projects"
+  },
+  "maeshataruna99-lgtm/simrs-rawat-jalan": {
+    "last_scan": "2026-11-24T05:56:32.074158",
+    "findings_count": 1522,
+    "scan_type": "auto:ai-projects"
+  },
+  "thirulingeshwar/aurora-loc": {
+    "last_scan": "2026-11-24T05:56:43.370539",
+    "findings_count": 9,
+    "scan_type": "auto:ai-projects"
+  },
+  "MikkoP88/vllm-arc": {
+    "last_scan": "2026-11-24T10:06:03.591376",
+    "findings_count": 399,
+    "scan_type": "auto:ai-projects"
   }
 }
