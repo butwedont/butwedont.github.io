@@ -3248,5 +3248,30 @@
     "last_scan": "2026-11-24T10:06:03.591376",
     "findings_count": 399,
     "scan_type": "auto:ai-projects"
+  },
+  "krakenrf/krakensdr_suite": {
+    "last_scan": "2026-11-25T05:05:08.671318",
+    "findings_count": 100,
+    "scan_type": "auto:ai-projects"
+  },
+  "SaidSar/challenge-ml-isof": {
+    "last_scan": "2026-11-25T05:05:15.592687",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "Johnny-Cheung/Johnny-Code": {
+    "last_scan": "2026-11-25T05:09:00.199856",
+    "findings_count": 184,
+    "scan_type": "auto:ai-projects"
+  },
+  "Tae-sung-Kim/pickle-eight": {
+    "last_scan": "2026-11-25T05:24:24.785716",
+    "findings_count": 1518,
+    "scan_type": "auto:ai-projects"
+  },
+  "sailor723/langconfig": {
+    "last_scan": "2026-11-25T07:54:01.574553",
+    "findings_count": 1074,
+    "scan_type": "auto:ai-projects"
   }
 }
