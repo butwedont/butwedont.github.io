@@ -3273,5 +3273,10 @@
     "last_scan": "2026-11-25T07:54:01.574553",
     "findings_count": 1074,
     "scan_type": "auto:ai-projects"
+  },
+  "yutao8/starred": {
+    "last_scan": "2026-11-26T05:09:46.624307",
+    "findings_count": 3,
+    "scan_type": "auto:ai-projects"
   }
 }
