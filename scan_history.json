@@ -3343,5 +3343,55 @@
     "last_scan": "2026-11-27T05:00:07.658590",
     "findings_count": 111,
     "scan_type": "auto:ai-projects"
+  },
+  "manminkim-eng/safety-inspection-fee": {
+    "last_scan": "2026-11-28T03:47:23.411703",
+    "findings_count": 2,
+    "scan_type": "auto:ai-projects"
+  },
+  "eureka42-ai/ases-framework": {
+    "last_scan": "2026-11-28T03:54:03.184620",
+    "findings_count": 370,
+    "scan_type": "auto:ai-projects"
+  },
+  "lumtekvn/lumreels": {
+    "last_scan": "2026-11-28T03:57:58.812490",
+    "findings_count": 463,
+    "scan_type": "auto:ai-projects"
+  },
+  "hectorqin/cloudcli-plugin-coagent": {
+    "last_scan": "2026-11-28T03:59:16.385295",
+    "findings_count": 401,
+    "scan_type": "auto:ai-projects"
+  },
+  "sachinnpathakk/ggplanner": {
+    "last_scan": "2026-11-28T03:59:18.950492",
+    "findings_count": 0,
+    "scan_type": "auto:ai-projects"
+  },
+  "DanGeo13/MausDroid": {
+    "last_scan": "2026-11-28T04:04:50.669131",
+    "findings_count": 543,
+    "scan_type": "auto:ai-projects"
+  },
+  "zhubin967-png/trade-review": {
+    "last_scan": "2026-11-28T04:07:52.649554",
+    "findings_count": 577,
+    "scan_type": "auto:ai-projects"
+  },
+  "zzzyzh/cli2api": {
+    "last_scan": "2026-11-28T04:08:23.139063",
+    "findings_count": 105,
+    "scan_type": "auto:ai-projects"
+  },
+  "J1towing1980/caldrentech-website": {
+    "last_scan": "2026-11-28T04:10:07.735133",
+    "findings_count": 1242,
+    "scan_type": "auto:ai-projects"
+  },
+  "umouyoumou-del/DeepInfer-ECS": {
+    "last_scan": "2026-11-28T04:55:19.472968",
+    "findings_count": 144,
+    "scan_type": "auto:ai-projects"
   }
 }
